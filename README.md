@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: ASSUME Developers
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+
 # ASSUME Framework Examples
 
 This repository contains example implementations and usage patterns for the [ASSUME (Agent-Based Electricity Markets Simulation Toolbox)](https://github.com/assume-framework/assume).
