@@ -1,0 +1,1241 @@
+name,technology,bidding_EOM,bidding_nodal,bidding_DAM,bidding_redispatch,fuel_type,emission_factor,max_power,min_power,efficiency,additional_cost,node,unit_operator,operating_type
+Unit_0,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,31.1,0,0.406816435,1.3,260,operator_0,Market
+Unit_1,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,233.764,0,0.414665196,5.5,260,operator_1,Market
+Unit_2,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,61.7,0,0.3487,5.5,260,operator_2,Market
+Unit_3,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,37.6,0,0.33,0,260,operator_3,Market
+Unit_4,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,51.805,0,0.394519632,1.3,351,operator_4,Market
+Unit_5,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,338.119692,0,0.450377637,5.5,351,operator_5,Market
+Unit_6,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,29.2,0,0.419450427,5.5,351,operator_6,Market
+Unit_7,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,162.574,0,0.33,0,351,operator_7,Market
+Unit_8,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,65.3698,0,0.425937521,5.5,348,operator_8,Market
+Unit_9,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,34,0,0.3046,5.5,348,operator_9,Market
+Unit_10,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,36,0,0.33,0,348,operator_10,Market
+Unit_11,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,17,0,0.39799937,1.65,11,operator_11,Market
+Unit_12,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,88.457,0,0.403050514,5.5,11,operator_12,Market
+Unit_13,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,167.074,0,0.33,0,11,operator_13,Market
+Unit_14,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,14.82,0,0.490636968,5.5,62,operator_14,Market
+Unit_15,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,46,0,0.33,0,62,operator_15,Market
+Unit_16,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,33.932,0,0.424061042,5.5,183,operator_16,Market
+Unit_17,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,23.875,0,0.33,0,183,operator_17,Market
+Unit_18,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,33.5,0,0.379586492,1.65,284,operator_18,Market
+Unit_19,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,126.023,0,0.404960301,5.5,284,operator_19,Market
+Unit_20,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,24.81,0,0.456311487,5.5,284,operator_20,Market
+Unit_21,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,62.099,0,0.33,0,284,operator_21,Market
+Unit_22,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,66.694,0,0.408598519,5.5,42,operator_22,Market
+Unit_23,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,18.5,0,0.33,0,42,operator_23,Market
+Unit_24,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,79.4,0,0.374986765,1.3,475,operator_24,Market
+Unit_25,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,19,0,0.335250218,1.65,475,operator_25,Market
+Unit_26,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,281.064,0,0.442438392,5.5,475,operator_26,Market
+Unit_27,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,7.434,0,0.4602,5.5,475,operator_27,Market
+Unit_28,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,120.29,0,0.33,0,475,operator_28,Market
+Unit_29,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,22.143,0,0.340961945,1.3,167,operator_29,Market
+Unit_30,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,lignite,0.4,7.2,0,0.356570393,1.65,167,operator_30,Grid reserve
+Unit_31,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,34.8,0,0.302244465,1.65,167,operator_31,Market
+Unit_32,Small gas,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,6.232,0,0.364489377,5.5,167,operator_32,Grid reserve
+Unit_33,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,658.99085,0,0.419252753,5.5,167,operator_33,Market
+Unit_34,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,49.4672,0,0.383967155,5.5,167,operator_34,Market
+Unit_35,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,245.716,0,0.33,0,167,operator_35,Market
+Unit_36,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,86.489,0,0.411787185,5.5,255,operator_36,Market
+Unit_37,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,11.11,0,0.4469,5.5,255,operator_37,Market
+Unit_38,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,32.5,0,0.33,0,255,operator_38,Market
+Unit_39,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,43.81,0,0.443261118,5.5,99,operator_39,Market
+Unit_40,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,34.86,0,0.3332,5.5,99,operator_40,Market
+Unit_41,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,27.6,0,0.33,0,99,operator_41,Market
+Unit_42,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,58.378,0,0.482481487,5.5,327,operator_42,Market
+Unit_43,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,17.1,0,0.435,5.5,327,operator_43,Market
+Unit_44,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,15.7,0,0.33,0,327,operator_44,Market
+Unit_45,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,lignite,0.4,8.8,0,0.388792931,1.65,292,operator_45,Grid reserve
+Unit_46,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,72.3,0,0.363972262,1.65,292,operator_46,Market
+Unit_47,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,166.392,0,0.438961106,5.5,292,operator_47,Market
+Unit_48,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,69.69,0,0.33,0,292,operator_48,Market
+Unit_49,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,23.65,0,0.37987921,1.3,398,operator_49,Market
+Unit_50,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,38.577,0,0.397015068,5.5,398,operator_50,Market
+Unit_51,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,52.446,0,0.388703533,5.5,398,operator_51,Market
+Unit_52,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,55.36201,0,0.33,0,398,operator_52,Market
+Unit_53,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,78.813,0,0.424673541,5.5,32,operator_53,Market
+Unit_54,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,12.1,0,0.33,0,32,operator_54,Market
+Unit_55,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,78.302,0,0.431877802,5.5,312,operator_55,Market
+Unit_56,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,57,0,0.314204763,5.5,378,operator_56,Market
+Unit_57,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,81,0,0.319107807,5.5,378,operator_57,Market
+Unit_58,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,323,0,0.423280057,1.3,378,operator_58,Market
+Unit_59,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,65,0,0.373041282,5.5,378,operator_59,Market
+Unit_60,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,628,0,0.345062344,1.65,123,operator_60,Market
+Unit_61,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,648,0,0.345062344,1.65,123,operator_61,Market
+Unit_62,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,944,0,0.411809029,1.65,123,operator_62,Market
+Unit_63,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,115,0,0.624707296,5.5,347,operator_63,Market
+Unit_64,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,185,0,0.624707296,5.5,347,operator_64,Market
+Unit_65,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,189.5,0,0.628913126,5.5,48,operator_65,Market
+Unit_66,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,72,0,0.321559328,5.5,347,operator_66,Market
+Unit_67,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,72,0,0.321559328,5.5,347,operator_67,Market
+Unit_68,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52,0,0.364489377,5.5,435,operator_68,Market
+Unit_69,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,56,0,0.364489377,5.5,435,operator_69,Market
+Unit_70,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,56,0,0.365579425,5.5,435,operator_70,Market
+Unit_71,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,116,0,0.381930147,5.5,47,operator_71,Market
+Unit_72,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,164,0,0.373041282,5.5,47,operator_72,Market
+Unit_73,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,164,0,0.373041282,5.5,47,operator_73,Market
+Unit_74,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,89,0,0.40791401,1.3,347,operator_74,Market
+Unit_75,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,282,0,0.401328561,1.3,365,operator_75,Market
+Unit_76,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,282,0,0.40352371,1.3,365,operator_76,Market
+Unit_77,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,58.5,0,0.624707296,5.5,292,operator_77,Market
+Unit_78,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,63.5,0,0.628913126,5.5,292,operator_78,Market
+Unit_79,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,108,0,0.544796527,5.5,71,operator_79,Market
+Unit_80,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,50,0,0.370589761,5.5,71,operator_80,Market
+Unit_81,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,73.5,0,0.599472316,5.5,118,operator_81,Market
+Unit_82,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,500,0,0.356570393,1.65,291,operator_82,Market
+Unit_83,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,500,0,0.358872003,1.65,291,operator_83,Market
+Unit_84,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,840,0,0.4049042,1.65,291,operator_84,Market
+Unit_85,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,630,0,0.432523517,1.65,291,operator_85,Market
+Unit_86,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,56,0,0.378660003,5.5,43,operator_86,Market
+Unit_87,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,60,0,0.519561547,5.5,43,operator_87,Market
+Unit_88,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,60,0,0.519561547,5.5,43,operator_88,Market
+Unit_89,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,68.41,0,0.436780845,5.5,295,operator_89,Market
+Unit_90,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,98.1,0,0.641530616,5.5,295,operator_90,Market
+Unit_91,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,444.5,0,0.603678146,5.5,67,operator_91,Market
+Unit_92,Combustion Engine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,105.978,0,0.4742,5.5,62,operator_92,Market
+Unit_93,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,119,0,0.40571886,1.3,62,operator_93,Market
+Unit_94,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,86,0,0.315,5.5,67,operator_94,Market
+Unit_95,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,137,0,0.382847369,5.5,331,operator_95,Market
+Unit_96,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,72.46,0,0.349228703,5.5,331,operator_96,Market
+Unit_97,Combustion Engine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53.481,0,0.4728,5.5,428,operator_97,Market
+Unit_98,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,1052,0,0.4737685,1.3,164,operator_98,Market
+Unit_99,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,194,0,0.385200291,5.5,131,operator_99,Market
+Unit_100,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,184,0,0.380395847,5.5,131,operator_100,Market
+Unit_101,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,184,0,0.380395847,5.5,131,operator_101,Market
+Unit_102,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,58.681,0,0.637324786,5.5,444,operator_102,Market
+Unit_103,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,74,0,0.379750051,5.5,326,operator_103,Market
+Unit_104,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,62,0,0.523767377,5.5,326,operator_104,Market
+Unit_105,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,62,0,0.523767377,5.5,326,operator_105,Market
+Unit_106,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,62,0,0.523767377,5.5,326,operator_106,Market
+Unit_107,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,75.2,0,0.390201934,5.5,188,operator_107,Market
+Unit_108,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,75.2,0,0.390201934,5.5,188,operator_108,Market
+Unit_109,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,84,0,0.390650532,5.5,188,operator_109,Market
+Unit_110,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,725,0,0.458402452,1.3,196,operator_110,Market
+Unit_111,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,86.2,0,0.3072,5.5,148,operator_111,Market
+Unit_112,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,100,0,0.544796527,5.5,116,operator_112,Market
+Unit_113,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,66.7,0,0.316656285,5.5,116,operator_113,Market
+Unit_114,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,64.7,0,0.319107807,5.5,116,operator_114,Market
+Unit_115,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,595,0,0.612089806,5.5,116,operator_115,Market
+Unit_116,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,61.6,0,0.35132835,5.5,81,operator_116,Market
+Unit_117,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,321,0,0.326462372,5.5,61,operator_117,Market
+Unit_118,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,75.185,0,0.616295636,5.5,335,operator_118,Market
+Unit_119,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,433,0,0.431239119,5.5,270,operator_119,Market
+Unit_120,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,112.719,0,0.35974001,5.5,385,operator_120,Market
+Unit_121,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,321,0,0.328951076,1.65,127,operator_121,Market
+Unit_122,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,663,0,0.345062344,1.65,127,operator_122,Market
+Unit_123,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,200,0,0.39174058,5.5,127,operator_123,Market
+Unit_124,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,656,0,0.347363954,1.65,127,operator_124,Market
+Unit_125,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,200,0,0.39174058,5.5,127,operator_125,Market
+Unit_126,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,50.1,0,0.419620193,5.5,495,operator_126,Market
+Unit_127,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,60,0,0.434329323,5.5,495,operator_127,Market
+Unit_128,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,71,0,0.33,0,240,operator_128,Market
+Unit_129,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,92,0,0.434329323,5.5,240,operator_129,Market
+Unit_130,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,92,0,0.434329323,5.5,240,operator_130,Market
+Unit_131,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53.6,0,0.557414017,5.5,240,operator_131,Market
+Unit_132,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,70,0,0.565825677,5.5,240,operator_132,Market
+Unit_133,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,61.5,0,0.40791401,1.3,492,operator_133,Market
+Unit_134,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,61.5,0,0.40791401,1.3,492,operator_134,Market
+Unit_135,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,110.755,0,0.365686718,5.5,492,operator_135,Market
+Unit_136,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,56,0,0.317443027,1.65,134,operator_136,Market
+Unit_137,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.93,0,0.645736446,5.5,138,operator_137,Market
+Unit_138,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.93,0,0.645736446,5.5,138,operator_138,Market
+Unit_139,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,1060,0,0.432523517,1.65,115,operator_139,Market
+Unit_140,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,1060,0,0.432523517,1.65,115,operator_140,Market
+Unit_141,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,126,0,0.333816936,5.5,205,operator_141,Market
+Unit_142,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,121,0,0.333816936,5.5,205,operator_142,Market
+Unit_143,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,56.845,0,0.628913126,5.5,72,operator_143,Market
+Unit_144,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,57.144,0,0.628913126,5.5,72,operator_144,Market
+Unit_145,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,57.322,0,0.42942628,5.5,72,operator_145,Market
+Unit_146,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,54.832533,0,0.519561547,5.5,72,operator_146,Market
+Unit_147,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,127,0,0.582648997,5.5,21,operator_147,Market
+Unit_148,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,154,0,0.414499459,1.3,21,operator_148,Market
+Unit_149,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,407,0,0.574237337,5.5,136,operator_149,Market
+Unit_150,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,445,0,0.574237337,5.5,136,operator_150,Market
+Unit_151,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,136,0,0.40571886,1.3,380,operator_151,Market
+Unit_152,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,136,0,0.40571886,1.3,380,operator_152,Market
+Unit_153,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,78,0,0.370589761,5.5,380,operator_153,Market
+Unit_154,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,82,0,0.591060656,5.5,380,operator_154,Market
+Unit_155,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,70,0,0.582648997,5.5,380,operator_155,Market
+Unit_156,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,778,0,0.396938261,1.3,310,operator_156,Market
+Unit_157,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,417,0,0.574237337,5.5,205,operator_157,Market
+Unit_158,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.7,0,0.402459542,5.5,31,operator_158,Market
+Unit_159,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,657,0,0.637324786,5.5,142,operator_159,Market
+Unit_160,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,460,0,0.40571886,1.3,142,operator_160,Market
+Unit_161,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,280,0,0.574237337,5.5,133,operator_161,Market
+Unit_162,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,308,0,0.574237337,5.5,133,operator_162,Market
+Unit_163,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,308,0,0.574237337,5.5,133,operator_163,Market
+Unit_164,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,98,0,0.386491321,1.65,133,operator_164,Market
+Unit_165,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,63,0,0.386491321,1.65,133,operator_165,Market
+Unit_166,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,430,0,0.412265628,5.5,133,operator_166,Market
+Unit_167,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,59.8,0,0.276195478,5.5,225,operator_167,Market
+Unit_168,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,517,0,0.396938261,1.3,52,operator_168,Market
+Unit_169,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,834,0,0.460597602,1.3,52,operator_169,Market
+Unit_170,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,83,0,0.333816936,5.5,219,operator_170,Market
+Unit_171,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,75.3,0,0.427920298,1.65,145,operator_171,Market
+Unit_172,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,147,0,0.390650532,5.5,154,operator_172,Market
+Unit_173,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,266,0,0.392653455,5.5,154,operator_173,Market
+Unit_174,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,108.2,0,0.561619847,5.5,145,operator_174,Market
+Unit_175,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,452.9,0,0.612089806,5.5,154,operator_175,Market
+Unit_176,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,92,0,0.38,5.5,465,operator_176,Market
+Unit_177,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,431,0,0.431239119,5.5,296,operator_177,Market
+Unit_178,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,63.54,0,0.527973207,5.5,340,operator_178,Market
+Unit_179,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,64.603,0,0.586854826,5.5,340,operator_179,Market
+Unit_180,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,67.5,0,0.434329323,5.5,340,operator_180,Market
+Unit_181,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,67.5,0,0.434329323,5.5,340,operator_181,Market
+Unit_182,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,55.4,0,0.434329323,5.5,72,operator_182,Market
+Unit_183,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,359,0,0.35685904,5.5,92,operator_183,Market
+Unit_184,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,58,0,0.591060656,5.5,92,operator_184,Market
+Unit_185,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,58,0,0.591060656,5.5,92,operator_185,Market
+Unit_186,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,359,0,0.439650779,5.5,92,operator_186,Market
+Unit_187,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,58,0,0.407362585,5.5,92,operator_187,Market
+Unit_188,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,58,0,0.407362585,5.5,92,operator_188,Market
+Unit_189,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,340,0,0.396100773,5.5,92,operator_189,Market
+Unit_190,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,293.5,0,0.586854826,5.5,92,operator_190,Market
+Unit_191,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,293.5,0,0.586854826,5.5,92,operator_191,Market
+Unit_192,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,89.5,0,0.565825677,5.5,215,operator_192,Market
+Unit_193,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,204,0,0.565825677,5.5,215,operator_193,Market
+Unit_194,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,204,0,0.565825677,5.5,215,operator_194,Market
+Unit_195,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,71.5,0,0.532179037,5.5,215,operator_195,Market
+Unit_196,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,173,0,0.532179037,5.5,215,operator_196,Market
+Unit_197,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,165.5,0,0.532179037,5.5,215,operator_197,Market
+Unit_198,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,746,0,0.458402452,1.3,248,operator_198,Market
+Unit_199,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,90,0,0.32401085,5.5,70,operator_199,Market
+Unit_200,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,139.7,0,0.386290339,5.5,70,operator_200,Market
+Unit_201,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,291.3,0,0.382847369,5.5,70,operator_201,Market
+Unit_202,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,255,0,0.440841255,1.3,229,operator_202,Market
+Unit_203,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,435,0,0.414499459,1.3,229,operator_203,Market
+Unit_204,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,843,0,0.462792751,1.3,229,operator_204,Market
+Unit_205,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,61.127,0,0.431239119,5.5,87,operator_205,Market
+Unit_206,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,77.567,0,0.435444949,5.5,87,operator_206,Market
+Unit_207,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53.5,0,0.637324786,5.5,87,operator_207,Market
+Unit_208,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53.5,0,0.637324786,5.5,87,operator_208,Market
+Unit_209,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53.5,0,0.637324786,5.5,87,operator_209,Market
+Unit_210,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.451,0,0.431877802,5.5,354,operator_210,Market
+Unit_211,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.768,0,0.431877802,5.5,354,operator_211,Market
+Unit_212,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,97.9,0,0.460679928,5.5,354,operator_212,Market
+Unit_213,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,97.9,0,0.460679928,5.5,354,operator_213,Market
+Unit_214,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,127.6,0,0.561619847,5.5,354,operator_214,Market
+Unit_215,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,146.3,0,0.633118956,5.5,354,operator_215,Market
+Unit_216,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,146.3,0,0.633118956,5.5,354,operator_216,Market
+Unit_217,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,891,0,0.40260259,1.65,313,operator_217,Market
+Unit_218,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,891,0,0.4049042,1.65,313,operator_218,Market
+Unit_219,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53,0,0.565825677,5.5,390,operator_219,Market
+Unit_220,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53,0,0.565825677,5.5,390,operator_220,Market
+Unit_221,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,383,0,0.355768992,5.5,390,operator_221,Market
+Unit_222,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,387,0,0.357949088,5.5,390,operator_222,Market
+Unit_223,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53,0,0.439650779,5.5,390,operator_223,Market
+Unit_224,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,54,0,0.40352371,1.3,492,operator_224,Market
+Unit_225,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,87,0,0.3072,5.5,402,operator_225,Market
+Unit_226,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,90,0,0.3904,5.5,398,operator_226,Market
+Unit_227,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,78.157,0,0.586854826,5.5,332,operator_227,Market
+Unit_228,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,54,0,0.370589761,5.5,468,operator_228,Market
+Unit_229,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,514,0,0.416694608,1.3,217,operator_229,Market
+Unit_230,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,112.5,0,0.540590697,5.5,70,operator_230,Market
+Unit_231,Combustion Engine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.496,0,0.4728,5.5,99,operator_231,Market
+Unit_232,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,53,0,0.372119714,5.5,99,operator_232,Market
+Unit_233,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,450,0,0.393396151,1.65,72,operator_233,Market
+Unit_234,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,110,0,0.39569776,1.65,72,operator_234,Market
+Unit_235,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,450,0,0.39569776,1.65,72,operator_235,Market
+Unit_236,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,51.431,0,0.519561547,5.5,74,operator_236,Market
+Unit_237,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,106,0,0.3828,5.5,180,operator_237,Market
+Unit_238,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,106,0,0.3828,5.5,180,operator_238,Market
+Unit_239,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,59,0,0.3971,5.5,180,operator_239,Market
+Unit_240,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,755,0,0.39799937,1.65,79,operator_240,Market
+Unit_241,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,755,0,0.40030098,1.65,79,operator_241,Market
+Unit_242,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,100,0,0.532179037,5.5,292,operator_242,Market
+Unit_243,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,500,0,0.361173613,1.65,81,operator_243,Market
+Unit_244,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,500,0,0.363475223,1.65,81,operator_244,Market
+Unit_245,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,500,0,0.368078443,1.65,81,operator_245,Market
+Unit_246,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,500,0,0.370380052,1.65,81,operator_246,Market
+Unit_247,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,136,0,0.3306,5.5,305,operator_247,Market
+Unit_248,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,51,0,0.3072,5.5,28,operator_248,Market
+Unit_249,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,137,0,0.414499459,1.3,28,operator_249,Market
+Unit_250,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,116,0,0.414499459,1.3,28,operator_250,Market
+Unit_251,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,98,0,0.315,5.5,204,operator_251,Market
+Unit_252,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,98,0,0.3575,5.5,204,operator_252,Market
+Unit_253,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,55,0,0.431239119,5.5,166,operator_253,Market
+Unit_254,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,55,0,0.431239119,5.5,166,operator_254,Market
+Unit_255,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,355,0,0.355768992,5.5,166,operator_255,Market
+Unit_256,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,55,0,0.435444949,5.5,166,operator_256,Market
+Unit_257,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,112,0,0.341171501,5.5,166,operator_257,Market
+Unit_258,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,51.9,0,0.370589761,5.5,117,operator_258,Market
+Unit_259,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,90,0,0.3432,5.5,117,operator_259,Market
+Unit_260,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,726,0,0.462792751,1.3,34,operator_260,Market
+Unit_261,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,90.51,0,0.641530616,5.5,16,operator_261,Market
+Unit_262,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,99.99,0,0.641530616,5.5,16,operator_262,Market
+Unit_263,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,61,0,0.425475207,1.3,16,operator_263,Market
+Unit_264,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,61,0,0.425475207,1.3,16,operator_264,Market
+Unit_265,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,138.5,0,0.396938261,1.3,16,operator_265,Market
+Unit_266,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,138.5,0,0.396938261,1.3,16,operator_266,Market
+Unit_267,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,90.784,0,0.574237337,5.5,223,operator_267,Market
+Unit_268,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,51,0,0.392653455,5.5,382,operator_268,Market
+Unit_269,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,472,0,0.396938261,1.3,352,operator_269,Market
+Unit_270,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,58.172,0,0.377284882,1.65,344,operator_270,Market
+Unit_271,Combined cycle,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,79.7,0,0.460679928,5.5,354,operator_271,Market
+Unit_272,Gas turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,56,0,0.3176,5.5,34,operator_272,Market
+Unit_273,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,350,0,0.361815866,1.3,61,operator_273,Market
+Unit_274,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,92.332,0,0.381888101,1.65,344,operator_274,Market
+Unit_275,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,607,0,0.347363954,1.65,115,operator_275,Market
+Unit_276,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,lignite,0.4,604,0,0.349665564,1.65,115,operator_276,Market
+Unit_277,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,68.4,0,0.392547962,1.3,87,operator_277,Market
+Unit_278,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,55.56,0,0.366206166,1.3,87,operator_278,Market
+Unit_279,Combined cycle,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,52,0,0.431239119,5.5,270,operator_279,Capacity reserve
+Unit_280,Combined cycle,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,56,0,0.427033289,5.5,296,operator_280,Capacity reserve
+Unit_281,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,355,0,0.354678944,5.5,166,operator_281,Capacity reserve
+Unit_282,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,355,0,0.355768992,5.5,166,operator_282,Capacity reserve
+Unit_283,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,lignite,0.4,295,0,0.335855905,1.65,123,operator_283,Security reserve
+Unit_284,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,lignite,0.4,299,0,0.338157515,1.65,123,operator_284,Security reserve
+Unit_285,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,lignite,0.4,292,0,0.342760735,1.65,115,operator_285,Security reserve
+Unit_286,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,lignite,0.4,500,0,0.374983272,1.65,81,operator_286,Security reserve
+Unit_287,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,lignite,0.4,500,0,0.379586492,1.65,81,operator_287,Security reserve
+Unit_288,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,433,0,0.396938261,1.3,378,operator_288,Grid reserve
+Unit_289,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,720,0,0.388157663,1.3,166,operator_289,Grid reserve
+Unit_290,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,726,0,0.392547962,1.3,211,operator_290,Grid reserve
+Unit_291,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,345,0,0.359620717,1.3,138,operator_291,Grid reserve
+Unit_292,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,345,0,0.361815866,1.3,138,operator_292,Grid reserve
+Unit_293,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,580,0,0.360129184,5.5,245,operator_293,Grid reserve
+Unit_294,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,522,0,0.412304309,1.3,245,operator_294,Grid reserve
+Unit_295,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,oil,0.25,386,0,0.3553,5.5,351,operator_295,Grid reserve
+Unit_296,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,oil,0.25,386,0,0.3564,5.5,351,operator_296,Grid reserve
+Unit_297,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,125,0,0.353035268,1.3,310,operator_297,Grid reserve
+Unit_298,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,125,0,0.355230417,1.3,310,operator_298,Grid reserve
+Unit_299,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,114,0,0.383020195,5.5,52,operator_299,Grid reserve
+Unit_300,Gas turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,239,0,0.375492804,5.5,52,operator_300,Grid reserve
+Unit_301,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,250,0,0.360129184,5.5,70,operator_301,Grid reserve
+Unit_302,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,425,0,0.390352812,1.3,229,operator_302,Grid reserve
+Unit_303,Gas turbine,naive_eom,naive_eom,flexable_eom_block,,oil,0.25,85,0,0.315,5.5,236,operator_303,Grid reserve
+Unit_304,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,875,0,0.401328561,1.3,376,operator_304,Grid reserve
+Unit_305,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,655.6,0,0.377181914,1.3,99,operator_305,Grid reserve
+Unit_306,Gas turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,282,0,0.404911064,5.5,353,operator_306,Grid reserve
+Unit_307,Gas turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,282,0,0.404911064,5.5,353,operator_307,Grid reserve
+Unit_308,Gas turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,282,0,0.404911064,5.5,353,operator_308,Grid reserve
+Unit_309,Gas turbine,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,576,0,0.407362585,5.5,353,operator_309,Grid reserve
+Unit_310,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,211,0,0.40571886,1.3,360,operator_310,Grid reserve
+Unit_311,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,179,0,0.390352812,1.3,360,operator_311,Grid reserve
+Unit_312,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,96,0,0.350840118,1.3,305,operator_312,Grid reserve
+Unit_313,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,hard coal,0.3,148,0,0.357425567,1.3,305,operator_313,Grid reserve
+Unit_314,Gas turbine,naive_eom,naive_eom,flexable_eom_block,,oil,0.25,77.4,0,0.3046,5.5,236,operator_314,Grid reserve
+Unit_315,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,oil,0.25,263.5,0,0.3575,5.5,236,operator_315,Grid reserve
+Unit_316,Steam turbine,naive_eom,naive_eom,flexable_eom_block,,oil,0.25,415,0,0.3564,5.5,353,operator_316,Grid reserve
+Unit_317,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.28,0,0.381733322,5.5,223,operator_317,Market
+Unit_318,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,71.955,0,0.399762807,5.5,316,operator_318,Market
+Unit_319,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,130.574,0,0.478000698,5.5,302,operator_319,Market
+Unit_320,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,54,0,0.33,0,292,operator_320,Market
+Unit_321,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,72,0,0.340263607,5.5,219,operator_321,Market
+Unit_322,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,55.4,0,0.374899525,5.5,295,operator_322,Market
+Unit_323,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,65.1,0,0.33,0,62,operator_323,Market
+Unit_324,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,112.6,0,0.374650252,5.5,331,operator_324,Market
+Unit_325,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,151.402,0,0.47361137,5.5,344,operator_325,Market
+Unit_326,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,209.603,0,0.449561253,5.5,326,operator_326,Market
+Unit_327,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.154,0,0.443413457,5.5,175,operator_327,Market
+Unit_328,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,81.296,0,0.36709321,5.5,146,operator_328,Market
+Unit_329,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,104.23769,0,0.48053449,5.5,340,operator_329,Market
+Unit_330,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,123.5,0,0.503195978,5.5,32,operator_330,Market
+Unit_331,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,129.624,0,0.406820465,5.5,390,operator_331,Market
+Unit_332,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,93.4,0,0.393551881,5.5,495,operator_332,Market
+Unit_333,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,65.8,0,0.400230986,1.3,495,operator_333,Market
+Unit_334,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,194.013,0,0.394772316,5.5,240,operator_334,Market
+Unit_335,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,91.382,0,0.33,0,492,operator_335,Market
+Unit_336,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,50.5,0,0.4728,5.5,81,operator_336,Market
+Unit_337,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,85.256,0,0.458676462,5.5,322,operator_337,Market
+Unit_338,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,54.106,0,0.412825794,5.5,405,operator_338,Market
+Unit_339,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,229.375,0,0.371376567,5.5,72,operator_339,Market
+Unit_340,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,161.558467,0,0.368993811,5.5,72,operator_340,Market
+Unit_341,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,210.335,0,0.380934524,5.5,31,operator_341,Market
+Unit_342,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,65.52,0,0.33,0,457,operator_342,Market
+Unit_343,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,198.885,0,0.432699986,5.5,70,operator_343,Market
+Unit_344,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,241.875,0,0.399026226,5.5,441,operator_344,Market
+Unit_345,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,95,0,0.3795,5.5,424,operator_345,Market
+Unit_346,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,80.195,0,0.373172226,5.5,349,operator_346,Market
+Unit_347,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,189.12,0,0.4672,5.5,84,operator_347,Market
+Unit_348,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,64,0,0.33,0,154,operator_348,Market
+Unit_349,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,54.222,0,0.370649702,1.3,185,operator_349,Market
+Unit_350,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,74.5,0,0.351113242,5.5,185,operator_350,Market
+Unit_351,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,75.53,0,0.368967207,1.3,364,operator_351,Market
+Unit_352,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.47,0,0.344168294,5.5,364,operator_352,Market
+Unit_353,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,66.1,0,0.373846298,5.5,92,operator_353,Market
+Unit_354,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,88.04091,0,0.33,0,215,operator_354,Market
+Unit_355,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,66.87947,0,0.367666187,5.5,215,operator_355,Market
+Unit_356,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,62.8,0,0.33,0,37,operator_356,Market
+Unit_357,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,204.15,0,0.446268228,5.5,87,operator_357,Market
+Unit_358,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,62.7,0,0.405910009,5.5,275,operator_358,Market
+Unit_359,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,59.64,0,0.348476056,5.5,352,operator_359,Market
+Unit_360,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,100.9,0,0.394226293,5.5,374,operator_360,Market
+Unit_361,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,73.345,0,0.477977178,5.5,447,operator_361,Market
+Unit_362,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,61.5,0,0.33,0,170,operator_362,Market
+Unit_363,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,52.899,0,0.471198968,5.5,58,operator_363,Market
+Unit_364,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,81.8,0,0.527973207,5.5,365,operator_364,Market
+Unit_365,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,83.14,0,0.405541431,1.3,468,operator_365,Market
+Unit_366,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,108,0,0.527973207,5.5,217,operator_366,Market
+Unit_367,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,112.6102,0,0.525004601,5.5,99,operator_367,Market
+Unit_368,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,83.098,0,0.404707708,5.5,484,operator_368,Market
+Unit_369,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,waste,0,50,0,0.33,0,338,operator_369,Market
+Unit_370,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,78.049,0,0.45226283,5.5,74,operator_370,Market
+Unit_371,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,62.5,0,0.3675584,5.5,180,operator_371,Market
+Unit_372,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,92.907,0,0.601195716,5.5,102,operator_372,Market
+Unit_373,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,134.702,0,0.376736341,5.5,399,operator_373,Market
+Unit_374,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,192.645,0,0.40884778,5.5,414,operator_374,Market
+Unit_375,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,109.5,0,0.402711806,1.3,409,operator_375,Market
+Unit_376,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,61.054,0,0.452023829,5.5,159,operator_376,Market
+Unit_377,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,61,0,0.36972623,5.5,117,operator_377,Market
+Unit_378,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,98.8,0,0.633118956,5.5,16,operator_378,Market
+Unit_379,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,98.019,0,0.388281644,5.5,126,operator_379,Market
+Unit_380,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,98,0,0.385789855,5.5,382,operator_380,Market
+Unit_381,Small gas,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,natural gas,0.2,75.643,0,0.400649121,5.5,37,operator_381,Market
+Unit_382,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,92.8,0,0.3332,5.5,266,operator_382,Market
+Unit_383,Small oil,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,oil,0.25,58.8,0,0.4008,5.5,126,operator_383,Market
+Unit_384,Steam turbine,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,hard coal,0.3,133.864,0,0.326467109,1.3,87,operator_384,Market
+Unit_385,Small gas,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,148.416,0,0.357719272,5.5,12,operator_385,Capacity reserve
+Unit_386,Small gas,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,93,0,0.407362585,5.5,213,operator_386,Grid reserve
+Unit_387,Small gas,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,64,0,0.351953823,5.5,484,operator_387,Grid reserve
+Unit_388,Small gas,naive_eom,naive_eom,flexable_eom_block,,natural gas,0.2,186.756,0,0.349532635,5.5,45,operator_388,Grid reserve
+Unit_389,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.09626261,0,1,0,8,operator_389,Market
+Unit_390,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.69158504,0,1,0,8,operator_390,Market
+Unit_391,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,111.8623596,0,1,0,8,operator_391,Market
+Unit_392,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,108.874629,0,1,0,8,operator_392,Market
+Unit_393,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,38.12374431,0,1,0,9,operator_393,Market
+Unit_394,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,94.89729702,0,1,0,9,operator_394,Market
+Unit_395,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,275.2579272,0,1,0,9,operator_395,Market
+Unit_396,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,34.57373445,0,1,0,10,operator_396,Market
+Unit_397,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,423.2827897,0,1,0,10,operator_397,Market
+Unit_398,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,591.7222663,0,1,0,10,operator_398,Market
+Unit_399,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.94013452,0,1,0,11,operator_399,Market
+Unit_400,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,281.6034741,0,1,0,11,operator_400,Market
+Unit_401,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,156.5545968,0,1,0,11,operator_401,Market
+Unit_402,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,67.84397629,0,1,0,12,operator_402,Market
+Unit_403,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1555.457915,0,1,0,12,operator_403,Market
+Unit_404,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,966.4429251,0,1,0,12,operator_404,Market
+Unit_405,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,22.91307697,0,1,0,13,operator_405,Market
+Unit_406,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.287414367,0,1,0,13,operator_406,Market
+Unit_407,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,272.8546919,0,1,0,13,operator_407,Market
+Unit_408,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,23.25361039,0,1,0,13,operator_408,Market
+Unit_409,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,71.90565577,0,1,0,15,operator_409,Market
+Unit_410,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,114.6439326,0,1,0,15,operator_410,Market
+Unit_411,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,377.1525778,0,1,0,15,operator_411,Market
+Unit_412,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,107.8454321,0,1,0,16,operator_412,Market
+Unit_413,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,472.203192,0,1,0,16,operator_413,Market
+Unit_414,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,675.1842393,0,1,0,16,operator_414,Market
+Unit_415,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,63.68892133,0,1,0,18,operator_415,Market
+Unit_416,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,609.9932559,0,1,0,18,operator_416,Market
+Unit_417,wind offshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1006.084459,0,1,0,18,operator_417,Market
+Unit_418,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,727.9079624,0,1,0,18,operator_418,Market
+Unit_419,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,37.94288353,0,1,0,19,operator_419,Market
+Unit_420,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,256.7229802,0,1,0,19,operator_420,Market
+Unit_421,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,596.9173383,0,1,0,19,operator_421,Market
+Unit_422,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,21.2681952,0,1,0,19,operator_422,Market
+Unit_423,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.75355712,0,1,0,21,operator_423,Market
+Unit_424,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,96.37614041,0,1,0,21,operator_424,Market
+Unit_425,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,57.78292222,0,1,0,21,operator_425,Market
+Unit_426,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,50.42252594,0,1,0,22,operator_426,Market
+Unit_427,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,357.3784905,0,1,0,22,operator_427,Market
+Unit_428,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2317.511798,0,1,0,22,operator_428,Market
+Unit_429,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,36.48276408,0,1,0,23,operator_429,Market
+Unit_430,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,167.5872439,0,1,0,23,operator_430,Market
+Unit_431,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,209.873162,0,1,0,23,operator_431,Market
+Unit_432,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,90.71439532,0,1,0,24,operator_432,Market
+Unit_433,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,442.0279445,0,1,0,24,operator_433,Market
+Unit_434,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,588.0739061,0,1,0,24,operator_434,Market
+Unit_435,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,13.94245761,0,1,0,28,operator_435,Market
+Unit_436,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,92.6516044,0,1,0,28,operator_436,Market
+Unit_437,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,32.97401974,0,1,0,28,operator_437,Market
+Unit_438,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,41.11108517,0,1,0,29,operator_438,Market
+Unit_439,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,99.00723552,0,1,0,29,operator_439,Market
+Unit_440,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,423.472064,0,1,0,29,operator_440,Market
+Unit_441,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,26.92857274,0,1,0,30,operator_441,Market
+Unit_442,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,138.9858542,0,1,0,30,operator_442,Market
+Unit_443,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,418.3962835,0,1,0,30,operator_443,Market
+Unit_444,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.325943428,0,1,0,31,operator_444,Market
+Unit_445,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.039828496,0,1,0,31,operator_445,Market
+Unit_446,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,150.8608182,0,1,0,31,operator_446,Market
+Unit_447,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,216.0881866,0,1,0,31,operator_447,Market
+Unit_448,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.44306592,0,1,0,32,operator_448,Market
+Unit_449,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.025700775,0,1,0,32,operator_449,Market
+Unit_450,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,376.5325545,0,1,0,32,operator_450,Market
+Unit_451,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,548.0947172,0,1,0,32,operator_451,Market
+Unit_452,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,23.62585029,0,1,0,33,operator_452,Market
+Unit_453,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,11.16403149,0,1,0,33,operator_453,Market
+Unit_454,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,437.8284318,0,1,0,33,operator_454,Market
+Unit_455,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,344.1382739,0,1,0,33,operator_455,Market
+Unit_456,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.315979321,0,1,0,34,operator_456,Market
+Unit_457,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,31.77151215,0,1,0,34,operator_457,Market
+Unit_458,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,59.88450408,0,1,0,34,operator_458,Market
+Unit_459,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,19.06841139,0,1,0,36,operator_459,Market
+Unit_460,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,167.4453441,0,1,0,36,operator_460,Market
+Unit_461,wind offshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1006.660372,0,1,0,36,operator_461,Market
+Unit_462,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,346.0324574,0,1,0,36,operator_462,Market
+Unit_463,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.5527087,0,1,0,37,operator_463,Market
+Unit_464,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,205.2055591,0,1,0,37,operator_464,Market
+Unit_465,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,299.1337678,0,1,0,37,operator_465,Market
+Unit_466,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,196.5485814,0,1,0,39,operator_466,Market
+Unit_467,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,341.8578675,0,1,0,39,operator_467,Market
+Unit_468,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,871.023089,0,1,0,39,operator_468,Market
+Unit_469,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,78.69362607,0,1,0,40,operator_469,Market
+Unit_470,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,916.7062759,0,1,0,40,operator_470,Market
+Unit_471,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,693.9362154,0,1,0,40,operator_471,Market
+Unit_472,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,47.44576195,0,1,0,41,operator_472,Market
+Unit_473,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,500.2026744,0,1,0,41,operator_473,Market
+Unit_474,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1124.074833,0,1,0,41,operator_474,Market
+Unit_475,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,52.73548687,0,1,0,42,operator_475,Market
+Unit_476,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,520.9551091,0,1,0,42,operator_476,Market
+Unit_477,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,723.3244311,0,1,0,42,operator_477,Market
+Unit_478,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,36.64380847,0,1,0,43,operator_478,Market
+Unit_479,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,702.0012594,0,1,0,43,operator_479,Market
+Unit_480,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,780.5820715,0,1,0,43,operator_480,Market
+Unit_481,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,68.84174892,0,1,0,45,operator_481,Market
+Unit_482,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,253.9485984,0,1,0,45,operator_482,Market
+Unit_483,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,840.3874898,0,1,0,45,operator_483,Market
+Unit_484,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.09406527,0,1,0,49,operator_484,Market
+Unit_485,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,73.20567706,0,1,0,49,operator_485,Market
+Unit_486,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,115.6226601,0,1,0,49,operator_486,Market
+Unit_487,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,24.87645223,0,1,0,50,operator_487,Market
+Unit_488,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.2025681,0,1,0,50,operator_488,Market
+Unit_489,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,351.1616548,0,1,0,50,operator_489,Market
+Unit_490,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,264.3953349,0,1,0,50,operator_490,Market
+Unit_491,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,41.00945591,0,1,0,51,operator_491,Market
+Unit_492,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.082011492,0,1,0,51,operator_492,Market
+Unit_493,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,460.8869416,0,1,0,51,operator_493,Market
+Unit_494,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,591.7389257,0,1,0,51,operator_494,Market
+Unit_495,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.029935483,0,1,0,53,operator_495,Market
+Unit_496,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.938049428,0,1,0,53,operator_496,Market
+Unit_497,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,185.4284232,0,1,0,53,operator_497,Market
+Unit_498,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,35.49689275,0,1,0,53,operator_498,Market
+Unit_499,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,23.8366821,0,1,0,54,operator_499,Market
+Unit_500,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.21628422,0,1,0,58,operator_500,Market
+Unit_501,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.843512812,0,1,0,58,operator_501,Market
+Unit_502,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,223.125393,0,1,0,58,operator_502,Market
+Unit_503,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,75.20885091,0,1,0,59,operator_503,Market
+Unit_504,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,217.6956023,0,1,0,59,operator_504,Market
+Unit_505,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,349.9295382,0,1,0,59,operator_505,Market
+Unit_506,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.36494048,0,1,0,60,operator_506,Market
+Unit_507,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,195.7218482,0,1,0,60,operator_507,Market
+Unit_508,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,414.3851,0,1,0,60,operator_508,Market
+Unit_509,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,15.30432983,0,1,0,62,operator_509,Market
+Unit_510,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.2415851,0,1,0,62,operator_510,Market
+Unit_511,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,170.1079624,0,1,0,62,operator_511,Market
+Unit_512,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,250.6159659,0,1,0,62,operator_512,Market
+Unit_513,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,70.94991306,0,1,0,66,operator_513,Market
+Unit_514,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,13.3144126,0,1,0,66,operator_514,Market
+Unit_515,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,582.8691326,0,1,0,66,operator_515,Market
+Unit_516,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,47.01017298,0,1,0,66,operator_516,Market
+Unit_517,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.398413166,0,1,0,68,operator_517,Market
+Unit_518,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,259.4529763,0,1,0,68,operator_518,Market
+Unit_519,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.06137519,0,1,0,68,operator_519,Market
+Unit_520,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.034216551,0,1,0,69,operator_520,Market
+Unit_521,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,40.61024204,0,1,0,69,operator_521,Market
+Unit_522,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,27.89652936,0,1,0,69,operator_522,Market
+Unit_523,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,43.50451447,0,1,0,70,operator_523,Market
+Unit_524,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,13.03065104,0,1,0,70,operator_524,Market
+Unit_525,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,426.0559246,0,1,0,70,operator_525,Market
+Unit_526,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,115.4812387,0,1,0,70,operator_526,Market
+Unit_527,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,58.11503192,0,1,0,71,operator_527,Market
+Unit_528,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.697308301,0,1,0,71,operator_528,Market
+Unit_529,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,957.9397633,0,1,0,71,operator_529,Market
+Unit_530,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,717.188497,0,1,0,71,operator_530,Market
+Unit_531,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,41.59746915,0,1,0,72,operator_531,Market
+Unit_532,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.15170665,0,1,0,72,operator_532,Market
+Unit_533,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,798.0171846,0,1,0,72,operator_533,Market
+Unit_534,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,806.2681317,0,1,0,72,operator_534,Market
+Unit_535,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,49.43081236,0,1,0,74,operator_535,Market
+Unit_536,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1101.348026,0,1,0,74,operator_536,Market
+Unit_537,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1129.910546,0,1,0,74,operator_537,Market
+Unit_538,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,34.43825761,0,1,0,75,operator_538,Market
+Unit_539,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,450.1716312,0,1,0,75,operator_539,Market
+Unit_540,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,414.0262755,0,1,0,75,operator_540,Market
+Unit_541,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.4265812,0,1,0,77,operator_541,Market
+Unit_542,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,33.24167598,0,1,0,77,operator_542,Market
+Unit_543,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,218.5528926,0,1,0,77,operator_543,Market
+Unit_544,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,253.6676413,0,1,0,77,operator_544,Market
+Unit_545,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,95.64199891,0,1,0,78,operator_545,Market
+Unit_546,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,11.10055964,0,1,0,78,operator_546,Market
+Unit_547,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,118.9604157,0,1,0,78,operator_547,Market
+Unit_548,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,66.43862347,0,1,0,78,operator_548,Market
+Unit_549,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,64.43846877,0,1,0,81,operator_549,Market
+Unit_550,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.053134817,0,1,0,81,operator_550,Market
+Unit_551,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,340.8031296,0,1,0,81,operator_551,Market
+Unit_552,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,485.6096469,0,1,0,81,operator_552,Market
+Unit_553,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.09636128,0,1,0,83,operator_553,Market
+Unit_554,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.31992084,0,1,0,84,operator_554,Market
+Unit_555,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.024828902,0,1,0,84,operator_555,Market
+Unit_556,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,125.8391202,0,1,0,84,operator_556,Market
+Unit_557,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,43.76379132,0,1,0,84,operator_557,Market
+Unit_558,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,171.3776003,0,1,0,85,operator_558,Market
+Unit_559,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1013.071852,0,1,0,85,operator_559,Market
+Unit_560,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,883.4179416,0,1,0,85,operator_560,Market
+Unit_561,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,26.26504698,0,1,0,90,operator_561,Market
+Unit_562,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,356.209165,0,1,0,90,operator_562,Market
+Unit_563,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,285.4206488,0,1,0,90,operator_563,Market
+Unit_564,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,185.4141438,0,1,0,93,operator_564,Market
+Unit_565,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,747.5206414,0,1,0,93,operator_565,Market
+Unit_566,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1160.693219,0,1,0,93,operator_566,Market
+Unit_567,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,95.21105427,0,1,0,95,operator_567,Market
+Unit_568,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,515.765351,0,1,0,95,operator_568,Market
+Unit_569,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,468.8352305,0,1,0,95,operator_569,Market
+Unit_570,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.40847044,0,1,0,99,operator_570,Market
+Unit_571,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.687427128,0,1,0,99,operator_571,Market
+Unit_572,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,431.4080379,0,1,0,99,operator_572,Market
+Unit_573,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,299.4480793,0,1,0,99,operator_573,Market
+Unit_574,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,34.80274774,0,1,0,100,operator_574,Market
+Unit_575,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.688900359,0,1,0,100,operator_575,Market
+Unit_576,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,489.6513101,0,1,0,100,operator_576,Market
+Unit_577,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,488.3184631,0,1,0,100,operator_577,Market
+Unit_578,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,190.0164984,0,1,0,102,operator_578,Market
+Unit_579,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.3779054,0,1,0,102,operator_579,Market
+Unit_580,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1316.26837,0,1,0,102,operator_580,Market
+Unit_581,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1249.655323,0,1,0,102,operator_581,Market
+Unit_582,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.860159754,0,1,0,104,operator_582,Market
+Unit_583,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,48.58841847,0,1,0,104,operator_583,Market
+Unit_584,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.92815441,0,1,0,104,operator_584,Market
+Unit_585,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.267179242,0,1,0,109,operator_585,Market
+Unit_586,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.8126648,0,1,0,109,operator_586,Market
+Unit_587,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,91.11660928,0,1,0,109,operator_587,Market
+Unit_588,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,6.604954315,0,1,0,109,operator_588,Market
+Unit_589,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,50.36951574,0,1,0,110,operator_589,Market
+Unit_590,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,15.03284981,0,1,0,110,operator_590,Market
+Unit_591,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,376.4659025,0,1,0,110,operator_591,Market
+Unit_592,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,266.2245504,0,1,0,110,operator_592,Market
+Unit_593,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.144985566,0,1,0,113,operator_593,Market
+Unit_594,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,42.82743515,0,1,0,113,operator_594,Market
+Unit_595,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.384632672,0,1,0,113,operator_595,Market
+Unit_596,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,45.50528466,0,1,0,114,operator_596,Market
+Unit_597,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,27.35802675,0,1,0,114,operator_597,Market
+Unit_598,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,260.6682891,0,1,0,114,operator_598,Market
+Unit_599,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,180.2008294,0,1,0,114,operator_599,Market
+Unit_600,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.89633119,0,1,0,119,operator_600,Market
+Unit_601,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,41.59527555,0,1,0,119,operator_601,Market
+Unit_602,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,238.2780685,0,1,0,119,operator_602,Market
+Unit_603,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,449.4125632,0,1,0,119,operator_603,Market
+Unit_604,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,39.44447492,0,1,0,120,operator_604,Market
+Unit_605,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.389306523,0,1,0,120,operator_605,Market
+Unit_606,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,321.4776237,0,1,0,120,operator_606,Market
+Unit_607,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,144.569661,0,1,0,120,operator_607,Market
+Unit_608,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.10457873,0,1,0,122,operator_608,Market
+Unit_609,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.070358972,0,1,0,122,operator_609,Market
+Unit_610,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,185.2273363,0,1,0,122,operator_610,Market
+Unit_611,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,270.3003661,0,1,0,122,operator_611,Market
+Unit_612,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.361789535,0,1,0,126,operator_612,Market
+Unit_613,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.484852863,0,1,0,126,operator_613,Market
+Unit_614,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,79.38890021,0,1,0,126,operator_614,Market
+Unit_615,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.06520596,0,1,0,126,operator_615,Market
+Unit_616,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.9181812,0,1,0,128,operator_616,Market
+Unit_617,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,25.16052677,0,1,0,128,operator_617,Market
+Unit_618,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,178.0240037,0,1,0,128,operator_618,Market
+Unit_619,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,63.75724437,0,1,0,128,operator_619,Market
+Unit_620,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,41.42353365,0,1,0,130,operator_620,Market
+Unit_621,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.384632672,0,1,0,130,operator_621,Market
+Unit_622,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.806027452,0,1,0,132,operator_622,Market
+Unit_623,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,154.3404074,0,1,0,132,operator_623,Market
+Unit_624,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.318572527,0,1,0,132,operator_624,Market
+Unit_625,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,24.8554348,0,1,0,134,operator_625,Market
+Unit_626,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,239.8806728,0,1,0,134,operator_626,Market
+Unit_627,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,84.65110789,0,1,0,134,operator_627,Market
+Unit_628,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,49.26661178,0,1,0,137,operator_628,Market
+Unit_629,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,426.8507916,0,1,0,137,operator_629,Market
+Unit_630,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,401.3263888,0,1,0,137,operator_630,Market
+Unit_631,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.28487983,0,1,0,142,operator_631,Market
+Unit_632,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,275.4708478,0,1,0,142,operator_632,Market
+Unit_633,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,198.5653532,0,1,0,142,operator_633,Market
+Unit_634,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.713872868,0,1,0,144,operator_634,Market
+Unit_635,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.030657024,0,1,0,144,operator_635,Market
+Unit_636,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,65.95376393,0,1,0,144,operator_636,Market
+Unit_637,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,6.524775495,0,1,0,149,operator_637,Market
+Unit_638,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.507372329,0,1,0,149,operator_638,Market
+Unit_639,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,300.6409647,0,1,0,149,operator_639,Market
+Unit_640,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.756951861,0,1,0,149,operator_640,Market
+Unit_641,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,10.9305411,0,1,0,151,operator_641,Market
+Unit_642,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,203.2424159,0,1,0,151,operator_642,Market
+Unit_643,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,246.1830646,0,1,0,151,operator_643,Market
+Unit_644,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.958599929,0,1,0,152,operator_644,Market
+Unit_645,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,96.89300895,0,1,0,152,operator_645,Market
+Unit_646,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.16457042,0,1,0,152,operator_646,Market
+Unit_647,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,19.44001043,0,1,0,153,operator_647,Market
+Unit_648,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,309.2330254,0,1,0,153,operator_648,Market
+Unit_649,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,69.39445356,0,1,0,153,operator_649,Market
+Unit_650,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,19.65758254,0,1,0,154,operator_650,Market
+Unit_651,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,259.4267894,0,1,0,154,operator_651,Market
+Unit_652,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,19.76581597,0,1,0,154,operator_652,Market
+Unit_653,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,54.32185024,0,1,0,157,operator_653,Market
+Unit_654,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,345.9855374,0,1,0,157,operator_654,Market
+Unit_655,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,112.8150779,0,1,0,157,operator_655,Market
+Unit_656,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,24.83078592,0,1,0,159,operator_656,Market
+Unit_657,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,198.357783,0,1,0,159,operator_657,Market
+Unit_658,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,93.52407566,0,1,0,159,operator_658,Market
+Unit_659,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,11.86901142,0,1,0,160,operator_659,Market
+Unit_660,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,16.81690042,0,1,0,160,operator_660,Market
+Unit_661,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,58.40175161,0,1,0,160,operator_661,Market
+Unit_662,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,51.13660965,0,1,0,166,operator_662,Market
+Unit_663,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,6.647407835,0,1,0,166,operator_663,Market
+Unit_664,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,207.5145198,0,1,0,166,operator_664,Market
+Unit_665,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,53.84632672,0,1,0,166,operator_665,Market
+Unit_666,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.732808234,0,1,0,169,operator_666,Market
+Unit_667,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.47839506,0,1,0,169,operator_667,Market
+Unit_668,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,73.15284489,0,1,0,169,operator_668,Market
+Unit_669,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.294671039,0,1,0,170,operator_669,Market
+Unit_670,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,15.03467219,0,1,0,170,operator_670,Market
+Unit_671,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,62.90232273,0,1,0,170,operator_671,Market
+Unit_672,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,62.98330578,0,1,0,176,operator_672,Market
+Unit_673,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,19.19855662,0,1,0,176,operator_673,Market
+Unit_674,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,23.52308133,0,1,0,177,operator_674,Market
+Unit_675,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,481.533013,0,1,0,177,operator_675,Market
+Unit_676,wind offshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,352.3845294,0,1,0,177,operator_676,Market
+Unit_677,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,436.4116163,0,1,0,177,operator_677,Market
+Unit_678,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.932606743,0,1,0,178,operator_678,Market
+Unit_679,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.43440514,0,1,0,178,operator_679,Market
+Unit_680,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,210.4356957,0,1,0,178,operator_680,Market
+Unit_681,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,130.5862386,0,1,0,178,operator_681,Market
+Unit_682,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,39.20972682,0,1,0,179,operator_682,Market
+Unit_683,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,429.8232029,0,1,0,179,operator_683,Market
+Unit_684,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1679.612765,0,1,0,179,operator_684,Market
+Unit_685,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,72.90876471,0,1,0,183,operator_685,Market
+Unit_686,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,246.1113773,0,1,0,183,operator_686,Market
+Unit_687,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,301.0559103,0,1,0,183,operator_687,Market
+Unit_688,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,44.9227673,0,1,0,189,operator_688,Market
+Unit_689,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.03526317,0,1,0,189,operator_689,Market
+Unit_690,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,407.8428147,0,1,0,189,operator_690,Market
+Unit_691,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,83.87463142,0,1,0,189,operator_691,Market
+Unit_692,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.63183175,0,1,0,190,operator_692,Market
+Unit_693,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.204188671,0,1,0,190,operator_693,Market
+Unit_694,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,372.550912,0,1,0,190,operator_694,Market
+Unit_695,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,6.536204865,0,1,0,190,operator_695,Market
+Unit_696,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.62375888,0,1,0,197,operator_696,Market
+Unit_697,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,312.0632688,0,1,0,197,operator_697,Market
+Unit_698,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,132.305107,0,1,0,197,operator_698,Market
+Unit_699,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.308003151,0,1,0,200,operator_699,Market
+Unit_700,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,71.58987088,0,1,0,200,operator_700,Market
+Unit_701,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.692316336,0,1,0,200,operator_701,Market
+Unit_702,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,155.4365402,0,1,0,201,operator_702,Market
+Unit_703,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,171.3747553,0,1,0,201,operator_703,Market
+Unit_704,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,511.1170802,0,1,0,201,operator_704,Market
+Unit_705,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.089714688,0,1,0,204,operator_705,Market
+Unit_706,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,30.25288454,0,1,0,204,operator_706,Market
+Unit_707,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,330.4540872,0,1,0,204,operator_707,Market
+Unit_708,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,59.47677958,0,1,0,204,operator_708,Market
+Unit_709,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,19.25097302,0,1,0,205,operator_709,Market
+Unit_710,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,6.375742373,0,1,0,205,operator_710,Market
+Unit_711,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,35.04251746,0,1,0,205,operator_711,Market
+Unit_712,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,21.30441622,0,1,0,205,operator_712,Market
+Unit_713,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,36.90855964,0,1,0,209,operator_713,Market
+Unit_714,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.6080294,0,1,0,209,operator_714,Market
+Unit_715,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,324.6652637,0,1,0,209,operator_715,Market
+Unit_716,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,70.3848748,0,1,0,209,operator_716,Market
+Unit_717,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,38.8049147,0,1,0,210,operator_717,Market
+Unit_718,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,87.23488436,0,1,0,210,operator_718,Market
+Unit_719,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,171.2144694,0,1,0,210,operator_719,Market
+Unit_720,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.16419162,0,1,0,211,operator_720,Market
+Unit_721,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.373330525,0,1,0,211,operator_721,Market
+Unit_722,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,197.2738812,0,1,0,211,operator_722,Market
+Unit_723,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,165.815935,0,1,0,211,operator_723,Market
+Unit_724,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.384566259,0,1,0,213,operator_724,Market
+Unit_725,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.57418358,0,1,0,213,operator_725,Market
+Unit_726,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,62.52713609,0,1,0,215,operator_726,Market
+Unit_727,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,30.31177116,0,1,0,216,operator_727,Market
+Unit_728,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.20635946,0,1,0,216,operator_728,Market
+Unit_729,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,288.483489,0,1,0,216,operator_729,Market
+Unit_730,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.264625381,0,1,0,216,operator_730,Market
+Unit_731,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.794962177,0,1,0,217,operator_731,Market
+Unit_732,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,48.65544006,0,1,0,217,operator_732,Market
+Unit_733,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,10.37614379,0,1,0,217,operator_733,Market
+Unit_734,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,56.02372421,0,1,0,219,operator_734,Market
+Unit_735,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,278.5266187,0,1,0,219,operator_735,Market
+Unit_736,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,49.89505985,0,1,0,219,operator_736,Market
+Unit_737,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,6.830994632,0,1,0,221,operator_737,Market
+Unit_738,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,126.2462683,0,1,0,221,operator_738,Market
+Unit_739,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,210.4375841,0,1,0,221,operator_739,Market
+Unit_740,wind offshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2659.157584,0,1,0,222,operator_740,Market
+Unit_741,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.064062801,0,1,0,223,operator_741,Market
+Unit_742,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,277.7128386,0,1,0,223,operator_742,Market
+Unit_743,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,104.91283,0,1,0,223,operator_743,Market
+Unit_744,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.30376185,0,1,0,224,operator_744,Market
+Unit_745,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,260.0631565,0,1,0,224,operator_745,Market
+Unit_746,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,69.04117522,0,1,0,224,operator_746,Market
+Unit_747,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,23.13043006,0,1,0,225,operator_747,Market
+Unit_748,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,447.2910246,0,1,0,225,operator_748,Market
+Unit_749,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,406.622,0,1,0,225,operator_749,Market
+Unit_750,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,55.92136422,0,1,0,226,operator_750,Market
+Unit_751,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.174124885,0,1,0,226,operator_751,Market
+Unit_752,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,147.7001764,0,1,0,226,operator_752,Market
+Unit_753,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,138.6392777,0,1,0,226,operator_753,Market
+Unit_754,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.919352236,0,1,0,228,operator_754,Market
+Unit_755,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.68199239,0,1,0,228,operator_755,Market
+Unit_756,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,189.0435495,0,1,0,228,operator_756,Market
+Unit_757,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,53.92801832,0,1,0,228,operator_757,Market
+Unit_758,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,57.35964776,0,1,0,229,operator_758,Market
+Unit_759,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.13510763,0,1,0,229,operator_759,Market
+Unit_760,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,86.63550329,0,1,0,229,operator_760,Market
+Unit_761,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,22.73495724,0,1,0,232,operator_761,Market
+Unit_762,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,48.69607433,0,1,0,232,operator_762,Market
+Unit_763,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,246.0961602,0,1,0,232,operator_763,Market
+Unit_764,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.276878258,0,1,0,232,operator_764,Market
+Unit_765,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,171.9274717,0,1,0,233,operator_765,Market
+Unit_766,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,51.05133403,0,1,0,233,operator_766,Market
+Unit_767,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1074.808599,0,1,0,233,operator_767,Market
+Unit_768,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,62.28594466,0,1,0,233,operator_768,Market
+Unit_769,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,22.88161518,0,1,0,235,operator_769,Market
+Unit_770,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,250.5425085,0,1,0,235,operator_770,Market
+Unit_771,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,199.8503733,0,1,0,235,operator_771,Market
+Unit_772,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.13825316,0,1,0,238,operator_772,Market
+Unit_773,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,90.48039933,0,1,0,238,operator_773,Market
+Unit_774,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,289.3116978,0,1,0,238,operator_774,Market
+Unit_775,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,206.215521,0,1,0,238,operator_775,Market
+Unit_776,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,31.74658885,0,1,0,241,operator_776,Market
+Unit_777,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,155.4848406,0,1,0,241,operator_777,Market
+Unit_778,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,21.10659671,0,1,0,241,operator_778,Market
+Unit_779,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.116053464,0,1,0,242,operator_779,Market
+Unit_780,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.38057391,0,1,0,242,operator_780,Market
+Unit_781,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,331.6058891,0,1,0,242,operator_781,Market
+Unit_782,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,146.8820844,0,1,0,242,operator_782,Market
+Unit_783,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,21.40483448,0,1,0,245,operator_783,Market
+Unit_784,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.62419085,0,1,0,245,operator_784,Market
+Unit_785,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,265.6174867,0,1,0,245,operator_785,Market
+Unit_786,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,310.166306,0,1,0,245,operator_786,Market
+Unit_787,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,10.48151889,0,1,0,247,operator_787,Market
+Unit_788,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,69.69337164,0,1,0,247,operator_788,Market
+Unit_789,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,270.1458871,0,1,0,247,operator_789,Market
+Unit_790,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.70314558,0,1,0,247,operator_790,Market
+Unit_791,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.94539743,0,1,0,254,operator_791,Market
+Unit_792,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.097129906,0,1,0,254,operator_792,Market
+Unit_793,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,421.3147159,0,1,0,254,operator_793,Market
+Unit_794,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1238.23395,0,1,0,254,operator_794,Market
+Unit_795,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.26268887,0,1,0,255,operator_795,Market
+Unit_796,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,127.8426494,0,1,0,255,operator_796,Market
+Unit_797,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,534.3562607,0,1,0,255,operator_797,Market
+Unit_798,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,569.3014314,0,1,0,255,operator_798,Market
+Unit_799,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.702374875,0,1,0,257,operator_799,Market
+Unit_800,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,144.8327503,0,1,0,257,operator_800,Market
+Unit_801,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,454.1609679,0,1,0,257,operator_801,Market
+Unit_802,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,64.61639812,0,1,0,258,operator_802,Market
+Unit_803,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.283969517,0,1,0,258,operator_803,Market
+Unit_804,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,475.7672742,0,1,0,258,operator_804,Market
+Unit_805,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,230.5662177,0,1,0,258,operator_805,Market
+Unit_806,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.20944263,0,1,0,259,operator_806,Market
+Unit_807,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,66.10872684,0,1,0,259,operator_807,Market
+Unit_808,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,130.5148486,0,1,0,259,operator_808,Market
+Unit_809,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,64.75954627,0,1,0,259,operator_809,Market
+Unit_810,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.60872093,0,1,0,260,operator_810,Market
+Unit_811,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.445242111,0,1,0,260,operator_811,Market
+Unit_812,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,548.4641871,0,1,0,260,operator_812,Market
+Unit_813,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,57.11057082,0,1,0,260,operator_813,Market
+Unit_814,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.215209323,0,1,0,262,operator_814,Market
+Unit_815,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,80.93588627,0,1,0,262,operator_815,Market
+Unit_816,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,48.12158692,0,1,0,264,operator_816,Market
+Unit_817,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.403891354,0,1,0,264,operator_817,Market
+Unit_818,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,316.8312024,0,1,0,264,operator_818,Market
+Unit_819,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,25.69758371,0,1,0,264,operator_819,Market
+Unit_820,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.899061174,0,1,0,265,operator_820,Market
+Unit_821,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,57.44340501,0,1,0,265,operator_821,Market
+Unit_822,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.559766879,0,1,0,265,operator_822,Market
+Unit_823,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,56.42033771,0,1,0,266,operator_823,Market
+Unit_824,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,400.7400448,0,1,0,266,operator_824,Market
+Unit_825,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,427.0654943,0,1,0,266,operator_825,Market
+Unit_826,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,74.23994325,0,1,0,270,operator_826,Market
+Unit_827,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,249.4572815,0,1,0,270,operator_827,Market
+Unit_828,wind offshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2529.612327,0,1,0,270,operator_828,Market
+Unit_829,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1674.052401,0,1,0,270,operator_829,Market
+Unit_830,wind offshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,252.5997119,0,1,0,271,operator_830,Market
+Unit_831,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.88007849,0,1,0,275,operator_831,Market
+Unit_832,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.948682798,0,1,0,275,operator_832,Market
+Unit_833,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,117.524894,0,1,0,275,operator_833,Market
+Unit_834,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.496892376,0,1,0,276,operator_834,Market
+Unit_835,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.34354392,0,1,0,276,operator_835,Market
+Unit_836,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,32.44891922,0,1,0,276,operator_836,Market
+Unit_837,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,42.10653626,0,1,0,278,operator_837,Market
+Unit_838,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,441.528559,0,1,0,278,operator_838,Market
+Unit_839,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,788.5706385,0,1,0,278,operator_839,Market
+Unit_840,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,58.0045032,0,1,0,280,operator_840,Market
+Unit_841,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,818.1639436,0,1,0,280,operator_841,Market
+Unit_842,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,821.3969195,0,1,0,280,operator_842,Market
+Unit_843,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.2170993,0,1,0,281,operator_843,Market
+Unit_844,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.883836607,0,1,0,281,operator_844,Market
+Unit_845,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,196.8337392,0,1,0,281,operator_845,Market
+Unit_846,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,71.08153058,0,1,0,281,operator_846,Market
+Unit_847,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,31.32251601,0,1,0,282,operator_847,Market
+Unit_848,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.11663224,0,1,0,282,operator_848,Market
+Unit_849,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,551.9810124,0,1,0,282,operator_849,Market
+Unit_850,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,102.7476822,0,1,0,282,operator_850,Market
+Unit_851,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.212259032,0,1,0,283,operator_851,Market
+Unit_852,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,6.615366737,0,1,0,283,operator_852,Market
+Unit_853,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,178.2388799,0,1,0,283,operator_853,Market
+Unit_854,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,138.6168548,0,1,0,283,operator_854,Market
+Unit_855,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.57923767,0,1,0,284,operator_855,Market
+Unit_856,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.823190652,0,1,0,284,operator_856,Market
+Unit_857,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,384.936353,0,1,0,284,operator_857,Market
+Unit_858,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,283.2797319,0,1,0,284,operator_858,Market
+Unit_859,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,123.7359634,0,1,0,285,operator_859,Market
+Unit_860,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,402.8588117,0,1,0,285,operator_860,Market
+Unit_861,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,522.4784993,0,1,0,285,operator_861,Market
+Unit_862,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.53859601,0,1,0,286,operator_862,Market
+Unit_863,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.43499688,0,1,0,286,operator_863,Market
+Unit_864,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,255.5305445,0,1,0,286,operator_864,Market
+Unit_865,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,221.9975912,0,1,0,286,operator_865,Market
+Unit_866,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.68309803,0,1,0,288,operator_866,Market
+Unit_867,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.851429231,0,1,0,288,operator_867,Market
+Unit_868,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,483.5214739,0,1,0,288,operator_868,Market
+Unit_869,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,115.7224673,0,1,0,288,operator_869,Market
+Unit_870,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,65.73710316,0,1,0,289,operator_870,Market
+Unit_871,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,614.1628503,0,1,0,289,operator_871,Market
+Unit_872,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,540.7792445,0,1,0,289,operator_872,Market
+Unit_873,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.42726479,0,1,0,290,operator_873,Market
+Unit_874,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.48315836,0,1,0,290,operator_874,Market
+Unit_875,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,455.6944727,0,1,0,290,operator_875,Market
+Unit_876,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,145.6611038,0,1,0,290,operator_876,Market
+Unit_877,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.05007936,0,1,0,292,operator_877,Market
+Unit_878,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.168488546,0,1,0,292,operator_878,Market
+Unit_879,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,356.2723113,0,1,0,292,operator_879,Market
+Unit_880,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,736.4712015,0,1,0,292,operator_880,Market
+Unit_881,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.811004519,0,1,0,293,operator_881,Market
+Unit_882,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.955448813,0,1,0,293,operator_882,Market
+Unit_883,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,80.60515565,0,1,0,293,operator_883,Market
+Unit_884,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.454583538,0,1,0,293,operator_884,Market
+Unit_885,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.481636266,0,1,0,294,operator_885,Market
+Unit_886,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,100.0294028,0,1,0,294,operator_886,Market
+Unit_887,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.475570644,0,1,0,294,operator_887,Market
+Unit_888,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.640090818,0,1,0,295,operator_888,Market
+Unit_889,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,63.03500845,0,1,0,295,operator_889,Market
+Unit_890,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.708177343,0,1,0,295,operator_890,Market
+Unit_891,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,64.12025798,0,1,0,296,operator_891,Market
+Unit_892,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.895574328,0,1,0,296,operator_892,Market
+Unit_893,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,184.1540689,0,1,0,296,operator_893,Market
+Unit_894,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,421.4419906,0,1,0,296,operator_894,Market
+Unit_895,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,70.39323783,0,1,0,299,operator_895,Market
+Unit_896,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,125.9774896,0,1,0,299,operator_896,Market
+Unit_897,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,132.3960883,0,1,0,299,operator_897,Market
+Unit_898,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,152.3754585,0,1,0,300,operator_898,Market
+Unit_899,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,651.1384188,0,1,0,300,operator_899,Market
+Unit_900,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1066.900768,0,1,0,300,operator_900,Market
+Unit_901,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.03730815,0,1,0,301,operator_901,Market
+Unit_902,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,89.91718568,0,1,0,301,operator_902,Market
+Unit_903,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,233.9377541,0,1,0,301,operator_903,Market
+Unit_904,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.843411722,0,1,0,302,operator_904,Market
+Unit_905,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.288962125,0,1,0,302,operator_905,Market
+Unit_906,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,49.57469417,0,1,0,302,operator_906,Market
+Unit_907,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.015658447,0,1,0,302,operator_907,Market
+Unit_908,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.99605741,0,1,0,304,operator_908,Market
+Unit_909,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.56619666,0,1,0,304,operator_909,Market
+Unit_910,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,609.8762399,0,1,0,304,operator_910,Market
+Unit_911,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,205.9663712,0,1,0,304,operator_911,Market
+Unit_912,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,25.81042453,0,1,0,308,operator_912,Market
+Unit_913,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.11389159,0,1,0,308,operator_913,Market
+Unit_914,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,566.7971373,0,1,0,308,operator_914,Market
+Unit_915,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,129.5591872,0,1,0,308,operator_915,Market
+Unit_916,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.6210398,0,1,0,310,operator_916,Market
+Unit_917,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.24764356,0,1,0,310,operator_917,Market
+Unit_918,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,428.9738968,0,1,0,310,operator_918,Market
+Unit_919,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,77.37037197,0,1,0,310,operator_919,Market
+Unit_920,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,90.30147986,0,1,0,311,operator_920,Market
+Unit_921,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.717866232,0,1,0,311,operator_921,Market
+Unit_922,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,687.0135226,0,1,0,311,operator_922,Market
+Unit_923,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,363.7871647,0,1,0,311,operator_923,Market
+Unit_924,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,32.98814657,0,1,0,312,operator_924,Market
+Unit_925,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,406.4926461,0,1,0,312,operator_925,Market
+Unit_926,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,209.8889538,0,1,0,312,operator_926,Market
+Unit_927,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,44.76509308,0,1,0,315,operator_927,Market
+Unit_928,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,137.1607802,0,1,0,315,operator_928,Market
+Unit_929,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,765.4024004,0,1,0,315,operator_929,Market
+Unit_930,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,37.05628427,0,1,0,315,operator_930,Market
+Unit_931,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,52.08154102,0,1,0,316,operator_931,Market
+Unit_932,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,43.63796528,0,1,0,316,operator_932,Market
+Unit_933,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,428.5109703,0,1,0,316,operator_933,Market
+Unit_934,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,31.27592472,0,1,0,316,operator_934,Market
+Unit_935,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,101.083442,0,1,0,318,operator_935,Market
+Unit_936,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,57.7710336,0,1,0,318,operator_936,Market
+Unit_937,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,406.9149698,0,1,0,318,operator_937,Market
+Unit_938,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,11.49109872,0,1,0,318,operator_938,Market
+Unit_939,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,38.12196656,0,1,0,320,operator_939,Market
+Unit_940,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,16.80621458,0,1,0,320,operator_940,Market
+Unit_941,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,508.1398434,0,1,0,320,operator_941,Market
+Unit_942,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,10.65118665,0,1,0,320,operator_942,Market
+Unit_943,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.98998115,0,1,0,322,operator_943,Market
+Unit_944,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.685360621,0,1,0,322,operator_944,Market
+Unit_945,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,320.7354472,0,1,0,322,operator_945,Market
+Unit_946,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,33.89342872,0,1,0,322,operator_946,Market
+Unit_947,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,34.04331766,0,1,0,323,operator_947,Market
+Unit_948,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.548913203,0,1,0,323,operator_948,Market
+Unit_949,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,393.1220677,0,1,0,323,operator_949,Market
+Unit_950,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,263.6584988,0,1,0,323,operator_950,Market
+Unit_951,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,45.02885935,0,1,0,324,operator_951,Market
+Unit_952,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.787181154,0,1,0,324,operator_952,Market
+Unit_953,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,320.5387425,0,1,0,324,operator_953,Market
+Unit_954,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,202.5728904,0,1,0,324,operator_954,Market
+Unit_955,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.7303905,0,1,0,326,operator_955,Market
+Unit_956,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.47661803,0,1,0,326,operator_956,Market
+Unit_957,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,214.7446612,0,1,0,326,operator_957,Market
+Unit_958,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,44.77709655,0,1,0,326,operator_958,Market
+Unit_959,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,61.51034461,0,1,0,329,operator_959,Market
+Unit_960,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,247.987729,0,1,0,329,operator_960,Market
+Unit_961,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,567.8195238,0,1,0,329,operator_961,Market
+Unit_962,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,46.0923902,0,1,0,330,operator_962,Market
+Unit_963,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,84.13206322,0,1,0,330,operator_963,Market
+Unit_964,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,646.6258391,0,1,0,330,operator_964,Market
+Unit_965,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,11.09825226,0,1,0,330,operator_965,Market
+Unit_966,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,119.355973,0,1,0,331,operator_966,Market
+Unit_967,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,488.2142971,0,1,0,331,operator_967,Market
+Unit_968,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1000.047102,0,1,0,331,operator_968,Market
+Unit_969,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.631125065,0,1,0,331,operator_969,Market
+Unit_970,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.57307874,0,1,0,332,operator_970,Market
+Unit_971,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,59.85157698,0,1,0,332,operator_971,Market
+Unit_972,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,741.6441713,0,1,0,332,operator_972,Market
+Unit_973,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,121.0596421,0,1,0,333,operator_973,Market
+Unit_974,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,434.0143899,0,1,0,333,operator_974,Market
+Unit_975,wind offshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,651.1010175,0,1,0,333,operator_975,Market
+Unit_976,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2428.15944,0,1,0,333,operator_976,Market
+Unit_977,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.29434643,0,1,0,334,operator_977,Market
+Unit_978,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.605043433,0,1,0,334,operator_978,Market
+Unit_979,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,585.1513092,0,1,0,334,operator_979,Market
+Unit_980,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,64.18383875,0,1,0,334,operator_980,Market
+Unit_981,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,46.78245153,0,1,0,335,operator_981,Market
+Unit_982,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,34.0517407,0,1,0,335,operator_982,Market
+Unit_983,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,768.2524384,0,1,0,335,operator_983,Market
+Unit_984,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,139.8371402,0,1,0,335,operator_984,Market
+Unit_985,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,72.37653551,0,1,0,336,operator_985,Market
+Unit_986,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,15.2835265,0,1,0,336,operator_986,Market
+Unit_987,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,847.8796124,0,1,0,336,operator_987,Market
+Unit_988,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,545.6681248,0,1,0,336,operator_988,Market
+Unit_989,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,60.62450695,0,1,0,337,operator_989,Market
+Unit_990,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,98.58009111,0,1,0,337,operator_990,Market
+Unit_991,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1170.308642,0,1,0,337,operator_991,Market
+Unit_992,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.64361225,0,1,0,337,operator_992,Market
+Unit_993,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,60.40407131,0,1,0,338,operator_993,Market
+Unit_994,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.4146452,0,1,0,338,operator_994,Market
+Unit_995,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,859.378752,0,1,0,338,operator_995,Market
+Unit_996,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,108.8047055,0,1,0,338,operator_996,Market
+Unit_997,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.775308443,0,1,0,339,operator_997,Market
+Unit_998,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,73.20964183,0,1,0,339,operator_998,Market
+Unit_999,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,50.47109406,0,1,0,339,operator_999,Market
+Unit_1000,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,80.48499964,0,1,0,340,operator_1000,Market
+Unit_1001,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,589.0365801,0,1,0,340,operator_1001,Market
+Unit_1002,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,146.0290455,0,1,0,340,operator_1002,Market
+Unit_1003,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,31.14219812,0,1,0,342,operator_1003,Market
+Unit_1004,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,280.6082536,0,1,0,342,operator_1004,Market
+Unit_1005,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,342.3434367,0,1,0,342,operator_1005,Market
+Unit_1006,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.2024198,0,1,0,343,operator_1006,Market
+Unit_1007,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.425905461,0,1,0,343,operator_1007,Market
+Unit_1008,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,172.4121793,0,1,0,343,operator_1008,Market
+Unit_1009,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,16.88183317,0,1,0,343,operator_1009,Market
+Unit_1010,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,53.19062808,0,1,0,344,operator_1010,Market
+Unit_1011,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,75.63864305,0,1,0,344,operator_1011,Market
+Unit_1012,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,651.1315218,0,1,0,344,operator_1012,Market
+Unit_1013,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,349.7979585,0,1,0,344,operator_1013,Market
+Unit_1014,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.27131587,0,1,0,345,operator_1014,Market
+Unit_1015,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.679250534,0,1,0,345,operator_1015,Market
+Unit_1016,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,145.6597583,0,1,0,345,operator_1016,Market
+Unit_1017,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,34.96159875,0,1,0,345,operator_1017,Market
+Unit_1018,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,41.31325805,0,1,0,348,operator_1018,Market
+Unit_1019,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,277.838949,0,1,0,348,operator_1019,Market
+Unit_1020,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,16.6,0,1,0,348,operator_1020,Market
+Unit_1021,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,26.48507102,0,1,0,349,operator_1021,Market
+Unit_1022,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,15.43806566,0,1,0,349,operator_1022,Market
+Unit_1023,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,513.3654333,0,1,0,349,operator_1023,Market
+Unit_1024,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.611768601,0,1,0,349,operator_1024,Market
+Unit_1025,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,53.65265686,0,1,0,350,operator_1025,Market
+Unit_1026,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.316022425,0,1,0,350,operator_1026,Market
+Unit_1027,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,631.2453938,0,1,0,350,operator_1027,Market
+Unit_1028,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,184.9159314,0,1,0,350,operator_1028,Market
+Unit_1029,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,58.09521799,0,1,0,351,operator_1029,Market
+Unit_1030,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,152.2595423,0,1,0,351,operator_1030,Market
+Unit_1031,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1110.929731,0,1,0,351,operator_1031,Market
+Unit_1032,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,133.6881756,0,1,0,351,operator_1032,Market
+Unit_1033,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,45.31665384,0,1,0,352,operator_1033,Market
+Unit_1034,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,101.0394118,0,1,0,352,operator_1034,Market
+Unit_1035,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,311.7986016,0,1,0,352,operator_1035,Market
+Unit_1036,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.639366339,0,1,0,352,operator_1036,Market
+Unit_1037,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.02709355,0,1,0,354,operator_1037,Market
+Unit_1038,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,50.62043792,0,1,0,354,operator_1038,Market
+Unit_1039,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,337.3102269,0,1,0,354,operator_1039,Market
+Unit_1040,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.67407124,0,1,0,354,operator_1040,Market
+Unit_1041,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.212955353,0,1,0,363,operator_1041,Market
+Unit_1042,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.48856463,0,1,0,363,operator_1042,Market
+Unit_1043,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,113.4370916,0,1,0,363,operator_1043,Market
+Unit_1044,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.39803954,0,1,0,363,operator_1044,Market
+Unit_1045,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,35.61084452,0,1,0,364,operator_1045,Market
+Unit_1046,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.736160273,0,1,0,366,operator_1046,Market
+Unit_1047,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.775425812,0,1,0,366,operator_1047,Market
+Unit_1048,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,386.7819593,0,1,0,366,operator_1048,Market
+Unit_1049,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.173157185,0,1,0,366,operator_1049,Market
+Unit_1050,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,55.10930013,0,1,0,369,operator_1050,Market
+Unit_1051,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,169.7352559,0,1,0,369,operator_1051,Market
+Unit_1052,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,799.3160601,0,1,0,369,operator_1052,Market
+Unit_1053,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.236136466,0,1,0,371,operator_1053,Market
+Unit_1054,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.3464978,0,1,0,371,operator_1054,Market
+Unit_1055,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,173.0036878,0,1,0,371,operator_1055,Market
+Unit_1056,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,174.8664077,0,1,0,371,operator_1056,Market
+Unit_1057,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.115562086,0,1,0,372,operator_1057,Market
+Unit_1058,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.661104796,0,1,0,372,operator_1058,Market
+Unit_1059,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,148.0842263,0,1,0,372,operator_1059,Market
+Unit_1060,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,53.41108717,0,1,0,372,operator_1060,Market
+Unit_1061,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,70.61575824,0,1,0,373,operator_1061,Market
+Unit_1062,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.35493997,0,1,0,373,operator_1062,Market
+Unit_1063,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,889.2558969,0,1,0,373,operator_1063,Market
+Unit_1064,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,31.72473028,0,1,0,373,operator_1064,Market
+Unit_1065,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.204430548,0,1,0,374,operator_1065,Market
+Unit_1066,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,123.8070733,0,1,0,374,operator_1066,Market
+Unit_1067,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,96.93509382,0,1,0,374,operator_1067,Market
+Unit_1068,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.568385916,0,1,0,375,operator_1068,Market
+Unit_1069,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,74.26609168,0,1,0,375,operator_1069,Market
+Unit_1070,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.749391534,0,1,0,375,operator_1070,Market
+Unit_1071,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.96065968,0,1,0,376,operator_1071,Market
+Unit_1072,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,154.32183,0,1,0,376,operator_1072,Market
+Unit_1073,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,40.00652607,0,1,0,376,operator_1073,Market
+Unit_1074,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,13.83765222,0,1,0,377,operator_1074,Market
+Unit_1075,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,4.575184951,0,1,0,377,operator_1075,Market
+Unit_1076,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,184.1916502,0,1,0,377,operator_1076,Market
+Unit_1077,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,132.0953595,0,1,0,377,operator_1077,Market
+Unit_1078,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,16.70382057,0,1,0,379,operator_1078,Market
+Unit_1079,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.258443062,0,1,0,379,operator_1079,Market
+Unit_1080,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,235.5932768,0,1,0,379,operator_1080,Market
+Unit_1081,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,23.58418835,0,1,0,379,operator_1081,Market
+Unit_1082,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,132.2963679,0,1,0,380,operator_1082,Market
+Unit_1083,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.269655554,0,1,0,380,operator_1083,Market
+Unit_1084,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,497.4010903,0,1,0,380,operator_1084,Market
+Unit_1085,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,859.3259578,0,1,0,380,operator_1085,Market
+Unit_1086,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.25466046,0,1,0,381,operator_1086,Market
+Unit_1087,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.749623956,0,1,0,381,operator_1087,Market
+Unit_1088,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,259.8210135,0,1,0,381,operator_1088,Market
+Unit_1089,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,107.1149176,0,1,0,381,operator_1089,Market
+Unit_1090,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.069232496,0,1,0,382,operator_1090,Market
+Unit_1091,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,45.09661144,0,1,0,382,operator_1091,Market
+Unit_1092,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,16.30183885,0,1,0,383,operator_1092,Market
+Unit_1093,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.996508644,0,1,0,383,operator_1093,Market
+Unit_1094,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,220.1667194,0,1,0,383,operator_1094,Market
+Unit_1095,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,80.65359798,0,1,0,383,operator_1095,Market
+Unit_1096,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,257.9070929,0,1,0,384,operator_1096,Market
+Unit_1097,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.148933934,0,1,0,384,operator_1097,Market
+Unit_1098,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1986.81765,0,1,0,384,operator_1098,Market
+Unit_1099,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,461.6468369,0,1,0,384,operator_1099,Market
+Unit_1100,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.50278377,0,1,0,385,operator_1100,Market
+Unit_1101,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,32.09708104,0,1,0,385,operator_1101,Market
+Unit_1102,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,289.0949392,0,1,0,385,operator_1102,Market
+Unit_1103,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,34.10503092,0,1,0,385,operator_1103,Market
+Unit_1104,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,59.98853518,0,1,0,386,operator_1104,Market
+Unit_1105,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,252.7278247,0,1,0,386,operator_1105,Market
+Unit_1106,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,178.6029982,0,1,0,386,operator_1106,Market
+Unit_1107,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,44.5301955,0,1,0,389,operator_1107,Market
+Unit_1108,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,49.087377,0,1,0,389,operator_1108,Market
+Unit_1109,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,980.1241607,0,1,0,389,operator_1109,Market
+Unit_1110,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,449.36143,0,1,0,389,operator_1110,Market
+Unit_1111,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,42.38732241,0,1,0,390,operator_1111,Market
+Unit_1112,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.06357012,0,1,0,390,operator_1112,Market
+Unit_1113,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,547.508131,0,1,0,390,operator_1113,Market
+Unit_1114,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,44.81949892,0,1,0,390,operator_1114,Market
+Unit_1115,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,34.33478085,0,1,0,394,operator_1115,Market
+Unit_1116,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.00007665,0,1,0,394,operator_1116,Market
+Unit_1117,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,202.7336283,0,1,0,394,operator_1117,Market
+Unit_1118,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,126.7624785,0,1,0,394,operator_1118,Market
+Unit_1119,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,69.01456765,0,1,0,395,operator_1119,Market
+Unit_1120,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,15.69064929,0,1,0,395,operator_1120,Market
+Unit_1121,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,687.6220584,0,1,0,395,operator_1121,Market
+Unit_1122,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.643558779,0,1,0,395,operator_1122,Market
+Unit_1123,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.60544149,0,1,0,396,operator_1123,Market
+Unit_1124,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,48.20996074,0,1,0,396,operator_1124,Market
+Unit_1125,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,341.7607558,0,1,0,396,operator_1125,Market
+Unit_1126,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.171614117,0,1,0,396,operator_1126,Market
+Unit_1127,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,10.40896874,0,1,0,397,operator_1127,Market
+Unit_1128,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.907099156,0,1,0,397,operator_1128,Market
+Unit_1129,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,181.461566,0,1,0,397,operator_1129,Market
+Unit_1130,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,36.28387694,0,1,0,397,operator_1130,Market
+Unit_1131,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.62685782,0,1,0,402,operator_1131,Market
+Unit_1132,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,362.8566915,0,1,0,402,operator_1132,Market
+Unit_1133,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,813.6226854,0,1,0,402,operator_1133,Market
+Unit_1134,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.556098129,0,1,0,405,operator_1134,Market
+Unit_1135,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,185.4349469,0,1,0,405,operator_1135,Market
+Unit_1136,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,139.0841171,0,1,0,405,operator_1136,Market
+Unit_1137,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,29.23091998,0,1,0,405,operator_1137,Market
+Unit_1138,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,32.72375161,0,1,0,406,operator_1138,Market
+Unit_1139,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.162682183,0,1,0,406,operator_1139,Market
+Unit_1140,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,277.7638143,0,1,0,406,operator_1140,Market
+Unit_1141,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,10.76017049,0,1,0,406,operator_1141,Market
+Unit_1142,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.917512471,0,1,0,409,operator_1142,Market
+Unit_1143,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,11.30217595,0,1,0,409,operator_1143,Market
+Unit_1144,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,88.34330567,0,1,0,409,operator_1144,Market
+Unit_1145,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,56.41379,0,1,0,410,operator_1145,Market
+Unit_1146,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,61.6107234,0,1,0,410,operator_1146,Market
+Unit_1147,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,276.9747977,0,1,0,410,operator_1147,Market
+Unit_1148,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.09690425,0,1,0,410,operator_1148,Market
+Unit_1149,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.10189366,0,1,0,411,operator_1149,Market
+Unit_1150,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.48599281,0,1,0,411,operator_1150,Market
+Unit_1151,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,431.1645865,0,1,0,411,operator_1151,Market
+Unit_1152,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1076.955096,0,1,0,411,operator_1152,Market
+Unit_1153,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.78098501,0,1,0,412,operator_1153,Market
+Unit_1154,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,211.1616638,0,1,0,412,operator_1154,Market
+Unit_1155,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,782.2291107,0,1,0,412,operator_1155,Market
+Unit_1156,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,37.40347708,0,1,0,417,operator_1156,Market
+Unit_1157,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,308.2164775,0,1,0,417,operator_1157,Market
+Unit_1158,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,693.759209,0,1,0,417,operator_1158,Market
+Unit_1159,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.878329663,0,1,0,418,operator_1159,Market
+Unit_1160,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,38.05794071,0,1,0,418,operator_1160,Market
+Unit_1161,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,191.030315,0,1,0,418,operator_1161,Market
+Unit_1162,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,20.54017785,0,1,0,422,operator_1162,Market
+Unit_1163,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.88938303,0,1,0,422,operator_1163,Market
+Unit_1164,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,437.2039712,0,1,0,422,operator_1164,Market
+Unit_1165,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,8.560949444,0,1,0,425,operator_1165,Market
+Unit_1166,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,83.31173575,0,1,0,425,operator_1166,Market
+Unit_1167,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,194.9137492,0,1,0,425,operator_1167,Market
+Unit_1168,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,16.15736162,0,1,0,426,operator_1168,Market
+Unit_1169,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.231565176,0,1,0,426,operator_1169,Market
+Unit_1170,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,95.43138378,0,1,0,426,operator_1170,Market
+Unit_1171,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,50.57161449,0,1,0,426,operator_1171,Market
+Unit_1172,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,18.01922625,0,1,0,428,operator_1172,Market
+Unit_1173,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.333306713,0,1,0,428,operator_1173,Market
+Unit_1174,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,630.9460596,0,1,0,428,operator_1174,Market
+Unit_1175,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,276.615601,0,1,0,428,operator_1175,Market
+Unit_1176,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,14.44942277,0,1,0,431,operator_1176,Market
+Unit_1177,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,218.9235687,0,1,0,431,operator_1177,Market
+Unit_1178,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,233.0960661,0,1,0,431,operator_1178,Market
+Unit_1179,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,9.278872279,0,1,0,433,operator_1179,Market
+Unit_1180,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,10.22196934,0,1,0,433,operator_1180,Market
+Unit_1181,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,54.51121028,0,1,0,433,operator_1181,Market
+Unit_1182,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,31.04101147,0,1,0,436,operator_1182,Market
+Unit_1183,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.054182589,0,1,0,436,operator_1183,Market
+Unit_1184,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,209.5106536,0,1,0,436,operator_1184,Market
+Unit_1185,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,13.30515487,0,1,0,436,operator_1185,Market
+Unit_1186,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,13.12324161,0,1,0,438,operator_1186,Market
+Unit_1187,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,163.7164213,0,1,0,438,operator_1187,Market
+Unit_1188,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,238.070501,0,1,0,438,operator_1188,Market
+Unit_1189,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,27.06252166,0,1,0,441,operator_1189,Market
+Unit_1190,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.1432526,0,1,0,441,operator_1190,Market
+Unit_1191,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,200.608108,0,1,0,441,operator_1191,Market
+Unit_1192,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,152.59618,0,1,0,441,operator_1192,Market
+Unit_1193,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.741789753,0,1,0,442,operator_1193,Market
+Unit_1194,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.452227524,0,1,0,442,operator_1194,Market
+Unit_1195,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,176.4141697,0,1,0,442,operator_1195,Market
+Unit_1196,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,90.40713538,0,1,0,442,operator_1196,Market
+Unit_1197,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,17.01187463,0,1,0,453,operator_1197,Market
+Unit_1198,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.104333426,0,1,0,453,operator_1198,Market
+Unit_1199,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,220.9749965,0,1,0,453,operator_1199,Market
+Unit_1200,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,279.7258144,0,1,0,453,operator_1200,Market
+Unit_1201,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,107.4770213,0,1,0,455,operator_1201,Market
+Unit_1202,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,66.34133586,0,1,0,455,operator_1202,Market
+Unit_1203,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,47.48765521,0,1,0,466,operator_1203,Market
+Unit_1204,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,3.443465689,0,1,0,470,operator_1204,Market
+Unit_1205,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.819781102,0,1,0,470,operator_1205,Market
+Unit_1206,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,78.86304436,0,1,0,470,operator_1206,Market
+Unit_1207,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,53.03687596,0,1,0,470,operator_1207,Market
+Unit_1208,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,44.61670933,0,1,0,472,operator_1208,Market
+Unit_1209,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,358.1257359,0,1,0,472,operator_1209,Market
+Unit_1210,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,325.7176009,0,1,0,472,operator_1210,Market
+Unit_1211,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,28.76489912,0,1,0,474,operator_1211,Market
+Unit_1212,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,5.597469486,0,1,0,474,operator_1212,Market
+Unit_1213,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,107.5543445,0,1,0,474,operator_1213,Market
+Unit_1214,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,198.169097,0,1,0,474,operator_1214,Market
+Unit_1215,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,6.687458407,0,1,0,481,operator_1215,Market
+Unit_1216,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,60.872471,0,1,0,481,operator_1216,Market
+Unit_1217,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,43.96918062,0,1,0,481,operator_1217,Market
+Unit_1218,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1.046277717,0,1,0,482,operator_1218,Market
+Unit_1219,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,48.10358987,0,1,0,482,operator_1219,Market
+Unit_1220,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,155.8246048,0,1,0,482,operator_1220,Market
+Unit_1221,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,39.59507102,0,1,0,483,operator_1221,Market
+Unit_1222,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,114.4264099,0,1,0,483,operator_1222,Market
+Unit_1223,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,396.423704,0,1,0,483,operator_1223,Market
+Unit_1224,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,55.25043328,0,1,0,483,operator_1224,Market
+Unit_1225,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,46.02359493,0,1,0,485,operator_1225,Market
+Unit_1226,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,43.5156687,0,1,0,485,operator_1226,Market
+Unit_1227,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,521.1760383,0,1,0,485,operator_1227,Market
+Unit_1228,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,7.484699204,0,1,0,485,operator_1228,Market
+Unit_1229,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,37.67440989,0,1,0,490,operator_1229,Market
+Unit_1230,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,2.380294509,0,1,0,490,operator_1230,Market
+Unit_1231,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,270.7288322,0,1,0,490,operator_1231,Market
+Unit_1232,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,537.2005708,0,1,0,490,operator_1232,Market
+Unit_1233,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,21.78796335,0,1,0,492,operator_1233,Market
+Unit_1234,hydro,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,12.78231951,0,1,0,492,operator_1234,Market
+Unit_1235,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,66.12878589,0,1,0,492,operator_1235,Market
+Unit_1236,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,16.21181688,0,1,0,494,operator_1236,Market
+Unit_1237,biomass,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,164.6962241,0,1,0,495,operator_1237,Market
+Unit_1238,solar pv,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,577.1199424,0,1,0,495,operator_1238,Market
+Unit_1239,wind onshore,naive_eom,naive_eom,flexable_eom_block,naive_redispatch,renewable,0,1158.134535,0,1,0,495,operator_1239,Market

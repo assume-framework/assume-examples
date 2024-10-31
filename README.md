@@ -90,6 +90,20 @@ The available examples are as follows:
 #### example_03b
 * base_case_2021: large_2021_rl
 
+### example_05 contains an updated redispatch example of germany
+
+#### example_05a
+* base: redisp_valid_2_nodes
+
+#### example_05b
+* base: redisp_valid_3_nodes
+
+#### example_05c
+* base: redisp_valid_Germany_2019
+
+#### example_05d
+* base: redisp_valid_Germany_2023
+
 ## Contributing
 
 Contributions are welcome! If you want to add your example, make sure it works and create a PR for it.
