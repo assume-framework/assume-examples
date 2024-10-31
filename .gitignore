@@ -2,3 +2,10 @@
 *.pyc
 *.pt
 *.log
+demand_meta.csv
+market_dispatch.csv
+market_meta.csv
+market_orders.csv
+power_plant_meta.csv
+unit_dispatch.csv
+assume-db
