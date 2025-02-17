@@ -1,41 +1,65 @@
-name,technology,p_nom,max_power,min_power,sign,fuel_type,marginal_cost,efficiency,start_up_cost,shut_down_cost,stand_by_cost,p_nom_opt,EE_region,bidding_EOM,bidding_redispatch,emission_factor,additional_cost,unit_operator
-onwind_0,onwind,4062.5103713915396,4062.51037139228,0.0,24.0,renewable,0.015,1.0,0.0,0.0,0.0,4062.51037139228,0,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_0,solar,2500.1423783679948,2500.142378368788,0.0,24.0,renewable,0.01,1.0,0.0,0.0,0.0,2500.142378368788,0,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_1,onwind,297.9287782210993,297.92877822106,0.0,8.0,renewable,0.015,1.0,0.0,0.0,0.0,297.92877822106,1,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_1,solar,3676.731154161736,22397.154842606193,0.0,8.0,renewable,0.01,1.0,0.0,0.0,0.0,22397.154842606193,1,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_2,onwind,4543.551100967789,4543.551100969436,0.0,26.0,renewable,0.015000000000000001,1.0,0.0,0.0,0.0,4543.551100969436,2,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_2,solar,3319.7112453182563,19450.43623063846,0.0,30.0,renewable,0.01,1.0,0.0,0.0,0.0,19450.43623063846,2,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_3,onwind,1922.5437752957655,1922.5437752955,0.0,10.0,renewable,0.015,1.0,0.0,0.0,0.0,1922.5437752955,3,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_3,solar,2485.307038499791,2485.3070385,0.0,10.0,renewable,0.01,1.0,0.0,0.0,0.0,2485.3070385,3,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_4,onwind,1578.218186883898,1578.2181868843559,0.0,36.0,renewable,0.015000000000000001,1.0,0.0,0.0,0.0,1578.2181868843559,4,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_4,solar,2300.2309511775275,12624.12996234515,0.0,36.0,renewable,0.01,1.0,0.0,0.0,0.0,12624.12996234515,4,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_5,onwind,2579.805429356079,2579.80542935771,0.0,75.0,renewable,0.015,1.0,0.0,0.0,0.0,2579.80542935771,5,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_5,solar,2807.7923396959295,2807.792339695079,0.0,88.0,renewable,0.01,1.0,0.0,0.0,0.0,2807.792339695079,5,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_6,onwind,2496.6124030930737,2496.6124030937,0.0,9.0,renewable,0.015000000000000001,1.0,0.0,0.0,0.0,2496.6124030937,6,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_6,solar,2862.158871776202,2862.1588717748,0.0,9.0,renewable,0.01,1.0,0.0,0.0,0.0,2862.1588717748,6,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_7,onwind,2536.2650564481432,2536.2650564482,0.0,16.0,renewable,0.015,1.0,0.0,0.0,0.0,2536.2650564482,7,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_7,solar,1253.169675048715,1253.16967504852,0.0,16.0,renewable,0.01,1.0,0.0,0.0,0.0,1253.16967504852,7,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_8,onwind,8566.572301886044,8566.57230188169,0.0,34.0,renewable,0.015,1.0,0.0,0.0,0.0,8566.57230188169,8,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_8,solar,2650.0679930457736,41517.51062057241,0.0,34.0,renewable,0.01,1.0,0.0,0.0,0.0,41517.51062057241,8,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_9,onwind,910.8572051018425,910.8572051023,0.0,7.0,renewable,0.015,1.0,0.0,0.0,0.0,910.8572051023,9,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_9,solar,2167.589411915377,2167.5894119160002,0.0,7.0,renewable,0.01,1.0,0.0,0.0,0.0,2167.5894119160002,9,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_10,onwind,5653.530334250742,5653.5303342514,0.0,27.0,renewable,0.015,1.0,0.0,0.0,0.0,5653.5303342514,10,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_10,solar,2175.2491710642344,2175.249171064664,0.0,27.0,renewable,0.01,1.0,0.0,0.0,0.0,2175.249171064664,10,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_11,onwind,4157.924784458909,4157.9247844581205,0.0,14.0,renewable,0.015,1.0,0.0,0.0,0.0,4157.9247844581205,11,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_11,solar,2310.9975206295567,13090.34684829817,0.0,14.0,renewable,0.01,1.0,0.0,0.0,0.0,13090.34684829817,11,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_12,onwind,560.7952932452924,560.79529324562,0.0,13.0,renewable,0.015000000000000001,1.0,0.0,0.0,0.0,560.79529324562,12,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_12,solar,3622.2355481730683,12565.769685868676,0.0,13.0,renewable,0.01,1.0,0.0,0.0,0.0,12565.769685868676,12,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_13,onwind,3407.351983270941,3407.3519832705,0.0,12.0,renewable,0.015,1.0,0.0,0.0,0.0,3407.3519832705,13,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_13,solar,3200.061564072066,3200.061564072,0.0,12.0,renewable,0.01,1.0,0.0,0.0,0.0,3200.061564072,13,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_14,onwind,3542.9281674373924,3542.9281674356503,0.0,22.0,renewable,0.014999999999999998,1.0,0.0,0.0,0.0,3542.9281674356503,14,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_14,solar,2238.4503346171764,18461.5429144568,0.0,22.0,renewable,0.01,1.0,0.0,0.0,0.0,18461.5429144568,14,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_15,onwind,1993.2684811957542,1993.2684811946,0.0,8.0,renewable,0.015,1.0,0.0,0.0,0.0,1993.2684811946,15,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_15,solar,2039.8404686010167,2039.8404685998999,0.0,8.0,renewable,0.01,1.0,0.0,0.0,0.0,2039.8404685998999,15,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_16,onwind,945.7018820411868,945.70188204199,0.0,16.0,renewable,0.015,1.0,0.0,0.0,0.0,945.70188204199,16,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_16,solar,3854.73605443944,3854.7360544409,0.0,16.0,renewable,0.01,1.0,0.0,0.0,0.0,3854.7360544409,16,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_17,onwind,762.388374710682,762.38837471044,0.0,42.0,renewable,0.015,1.0,0.0,0.0,0.0,762.38837471044,17,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_17,solar,3937.0414495368373,5270.999161645523,0.0,42.0,renewable,0.01,1.0,0.0,0.0,0.0,5270.999161645523,17,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_18,onwind,801.0940134600469,801.0940134593,0.0,5.0,renewable,0.015,1.0,0.0,0.0,0.0,801.0940134593,18,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_18,solar,1439.1818538896548,11633.075941084899,0.0,5.0,renewable,0.01,1.0,0.0,0.0,0.0,11633.075941084899,18,pp_learning,pp_learning,0.0,0.0,RL_operator
-onwind_19,onwind,3093.2179084926333,3093.217908491431,0.0,49.0,renewable,0.015,1.0,0.0,0.0,0.0,3093.217908491431,19,pp_learning,pp_learning,0.0,0.0,RL_operator
-solar_19,solar,2827.916205657426,2827.91620565631,0.0,50.0,renewable,0.01,1.0,0.0,0.0,0.0,2827.91620565631,19,pp_learning,pp_learning,0.0,0.0,RL_operator
+name,technology,max_power,min_power,fuel_type,additional_cost,efficiency,start_up_cost,shut_down_cost,EE_region,emission_factor,bidding_EOM,unit_operator
+OCGT_0,combined cycle gas turbine,707,0,natural gas,64.68,0.41,0.0,0.0,0,0.198,pp_learning,RL_operator_OCGT_0
+OCGT_1,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,1,0.198,pp_learning,RL_operator_OCGT_1
+OCGT_10,combined cycle gas turbine,1792,0,natural gas,64.68,0.41,0.0,0.0,10,0.198,pp_learning,RL_operator_OCGT_10
+OCGT_11,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,11,0.198,pp_learning,RL_operator_OCGT_11
+OCGT_12,combined cycle gas turbine,8849,0,natural gas,64.19,0.4138,0.0,0.0,12,0.198,pp_learning,RL_operator_OCGT_12
+OCGT_13,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,13,0.198,pp_learning,RL_operator_OCGT_13
+OCGT_14,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,14,0.198,pp_learning,RL_operator_OCGT_14
+OCGT_15,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,15,0.198,pp_learning,RL_operator_OCGT_15
+OCGT_16,combined cycle gas turbine,6562,0,natural gas,64.68,0.41,0.0,0.0,16,0.198,pp_learning,RL_operator_OCGT_16
+OCGT_17,combined cycle gas turbine,2634,0,natural gas,64.68,0.41,0.0,0.0,17,0.198,pp_learning,RL_operator_OCGT_17
+OCGT_18,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,18,0.198,pp_learning,RL_operator_OCGT_18
+OCGT_19,combined cycle gas turbine,2184,0,natural gas,64.68,0.41,0.0,0.0,19,0.198,pp_learning,RL_operator_OCGT_19
+OCGT_2,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,2,0.198,pp_learning,RL_operator_OCGT_2
+OCGT_3,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,3,0.198,pp_learning,RL_operator_OCGT_3
+OCGT_4,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,4,0.198,pp_learning,RL_operator_OCGT_4
+OCGT_5,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,5,0.198,pp_learning,RL_operator_OCGT_5
+OCGT_6,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,6,0.198,pp_learning,RL_operator_OCGT_6
+OCGT_7,combined cycle gas turbine,739,0,natural gas,64.68,0.41,0.0,0.0,7,0.198,pp_learning,RL_operator_OCGT_7
+OCGT_8,combined cycle gas turbine,0,0,natural gas,64.68,0.41,0.0,0.0,8,0.198,pp_learning,RL_operator_OCGT_8
+OCGT_9,combined cycle gas turbine,786,0,natural gas,64.68,0.41,0.0,0.0,9,0.198,pp_learning,RL_operator_OCGT_9
+offwind-ac_10,wind_offshore,1980,0,renewable,0.02,1.0,0.0,0.0,10,0.0,pp_learning,RL_operator_offwind-ac_10
+offwind-ac_11,wind_offshore,1714,0,renewable,0.02,1.0,0.0,0.0,11,0.0,pp_learning,RL_operator_offwind-ac_11
+offwind-ac_2,wind_offshore,2075,0,renewable,0.02,1.0,0.0,0.0,2,0.0,pp_learning,RL_operator_offwind-ac_2
+offwind-ac_8,wind_offshore,2016,0,renewable,0.01,1.0,0.0,0.0,8,0.0,pp_learning,RL_operator_offwind-ac_8
+onwind_0,wind_onshore,4062,0,renewable,0.02,1.0,0.0,0.0,0,0.0,pp_learning,RL_operator_onwind_0
+onwind_1,wind_onshore,297,0,renewable,0.02,1.0,0.0,0.0,1,0.0,pp_learning,RL_operator_onwind_1
+onwind_10,wind_onshore,5653,0,renewable,0.02,1.0,0.0,0.0,10,0.0,pp_learning,RL_operator_onwind_10
+onwind_11,wind_onshore,4157,0,renewable,0.02,1.0,0.0,0.0,11,0.0,pp_learning,RL_operator_onwind_11
+onwind_12,wind_onshore,560,0,renewable,0.02,1.0,0.0,0.0,12,0.0,pp_learning,RL_operator_onwind_12
+onwind_13,wind_onshore,3407,0,renewable,0.02,1.0,0.0,0.0,13,0.0,pp_learning,RL_operator_onwind_13
+onwind_14,wind_onshore,3542,0,renewable,0.01,1.0,0.0,0.0,14,0.0,pp_learning,RL_operator_onwind_14
+onwind_15,wind_onshore,1993,0,renewable,0.02,1.0,0.0,0.0,15,0.0,pp_learning,RL_operator_onwind_15
+onwind_16,wind_onshore,945,0,renewable,0.02,1.0,0.0,0.0,16,0.0,pp_learning,RL_operator_onwind_16
+onwind_17,wind_onshore,762,0,renewable,0.02,1.0,0.0,0.0,17,0.0,pp_learning,RL_operator_onwind_17
+onwind_18,wind_onshore,801,0,renewable,0.02,1.0,0.0,0.0,18,0.0,pp_learning,RL_operator_onwind_18
+onwind_19,wind_onshore,3093,0,renewable,0.02,1.0,0.0,0.0,19,0.0,pp_learning,RL_operator_onwind_19
+onwind_2,wind_onshore,4543,0,renewable,0.02,1.0,0.0,0.0,2,0.0,pp_learning,RL_operator_onwind_2
+onwind_3,wind_onshore,1922,0,renewable,0.02,1.0,0.0,0.0,3,0.0,pp_learning,RL_operator_onwind_3
+onwind_4,wind_onshore,1578,0,renewable,0.02,1.0,0.0,0.0,4,0.0,pp_learning,RL_operator_onwind_4
+onwind_5,wind_onshore,2579,0,renewable,0.02,1.0,0.0,0.0,5,0.0,pp_learning,RL_operator_onwind_5
+onwind_6,wind_onshore,2496,0,renewable,0.02,1.0,0.0,0.0,6,0.0,pp_learning,RL_operator_onwind_6
+onwind_7,wind_onshore,2536,0,renewable,0.02,1.0,0.0,0.0,7,0.0,pp_learning,RL_operator_onwind_7
+onwind_8,wind_onshore,8566,0,renewable,0.02,1.0,0.0,0.0,8,0.0,pp_learning,RL_operator_onwind_8
+onwind_9,wind_onshore,910,0,renewable,0.02,1.0,0.0,0.0,9,0.0,pp_learning,RL_operator_onwind_9
+solar_0,solar,2500,0,renewable,0.01,1.0,0.0,0.0,0,0.0,pp_learning,RL_operator_solar_0
+solar_1,solar,22397,0,renewable,0.01,1.0,0.0,0.0,1,0.0,pp_learning,RL_operator_solar_1
+solar_10,solar,2175,0,renewable,0.01,1.0,0.0,0.0,10,0.0,pp_learning,RL_operator_solar_10
+solar_11,solar,13090,0,renewable,0.01,1.0,0.0,0.0,11,0.0,pp_learning,RL_operator_solar_11
+solar_12,solar,12565,0,renewable,0.01,1.0,0.0,0.0,12,0.0,pp_learning,RL_operator_solar_12
+solar_13,solar,3200,0,renewable,0.01,1.0,0.0,0.0,13,0.0,pp_learning,RL_operator_solar_13
+solar_14,solar,18461,0,renewable,0.01,1.0,0.0,0.0,14,0.0,pp_learning,RL_operator_solar_14
+solar_15,solar,2039,0,renewable,0.01,1.0,0.0,0.0,15,0.0,pp_learning,RL_operator_solar_15
+solar_16,solar,3854,0,renewable,0.01,1.0,0.0,0.0,16,0.0,pp_learning,RL_operator_solar_16
+solar_17,solar,5270,0,renewable,0.01,1.0,0.0,0.0,17,0.0,pp_learning,RL_operator_solar_17
+solar_18,solar,11633,0,renewable,0.01,1.0,0.0,0.0,18,0.0,pp_learning,RL_operator_solar_18
+solar_19,solar,2827,0,renewable,0.01,1.0,0.0,0.0,19,0.0,pp_learning,RL_operator_solar_19
+solar_2,solar,19450,0,renewable,0.01,1.0,0.0,0.0,2,0.0,pp_learning,RL_operator_solar_2
+solar_3,solar,2485,0,renewable,0.01,1.0,0.0,0.0,3,0.0,pp_learning,RL_operator_solar_3
+solar_4,solar,12624,0,renewable,0.01,1.0,0.0,0.0,4,0.0,pp_learning,RL_operator_solar_4
+solar_5,solar,2807,0,renewable,0.01,1.0,0.0,0.0,5,0.0,pp_learning,RL_operator_solar_5
+solar_6,solar,2862,0,renewable,0.01,1.0,0.0,0.0,6,0.0,pp_learning,RL_operator_solar_6
+solar_7,solar,1253,0,renewable,0.01,1.0,0.0,0.0,7,0.0,pp_learning,RL_operator_solar_7
+solar_8,solar,41517,0,renewable,0.01,1.0,0.0,0.0,8,0.0,pp_learning,RL_operator_solar_8
+solar_9,solar,2167,0,renewable,0.01,1.0,0.0,0.0,9,0.0,pp_learning,RL_operator_solar_9
