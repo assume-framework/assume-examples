@@ -1,4 +1,4 @@
-datetime,demand_EOM_0,demand_EOM_1,demand_EOM_10,demand_EOM_11,demand_EOM_12,demand_EOM_13,demand_EOM_14,demand_EOM_15,demand_EOM_16,demand_EOM_17,demand_EOM_18,demand_EOM_19,demand_EOM_2,demand_EOM_3,demand_EOM_4,demand_EOM_5,demand_EOM_6,demand_EOM_7,demand_EOM_8,demand_EOM_9
+datetime,demand_0,demand_1,demand_10,demand_11,demand_12,demand_13,demand_14,demand_15,demand_16,demand_17,demand_18,demand_19,demand_2,demand_3,demand_4,demand_5,demand_6,demand_7,demand_8,demand_9
 2013-01-01 00:00:00,1562.68,1149.68,1410.49,731.59,2417.19,1050.3,1679.94,1322.53,1683.72,2976.6,1055.4,1917.64,1519.07,1275.25,3270.36,3581.8,1243.73,1343.83,2014.9,1549.13
 2013-01-01 01:00:00,1499.58,1103.25,1353.53,702.05,2319.58,1007.89,1612.1,1269.13,1615.73,2856.41,1012.79,1840.21,1457.73,1223.76,3138.31,3437.17,1193.51,1289.57,1933.54,1486.58
 2013-01-01 02:00:00,1439.64,1059.15,1299.43,673.99,2226.86,967.6,1547.66,1218.4,1551.14,2742.23,972.3,1766.65,1399.46,1174.84,3012.86,3299.78,1145.8,1238.02,1856.25,1427.15
